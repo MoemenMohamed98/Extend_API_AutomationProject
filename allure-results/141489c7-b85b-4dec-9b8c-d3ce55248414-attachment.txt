@@ -1,0 +1,24 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                              Test Method: 'com.ReqRes.API.Automation.E01_Get_fetchUserList.valid_fetchTheUserList'                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Assert that the API response Time is less than or equal to "2000". @07-08-2024 03:03:17.0605 AM
+[ReportManager] Get response time; 1642. @07-08-2024 03:03:17.0681 AM
+[ReportManager] Expected "2000", and actual "1642" @07-08-2024 03:03:17.0683 AM
+[ReportManager] Expected "2000", and actual "1642" @07-08-2024 03:03:17.0686 AM
+[ReportManager] Assertion passed @07-08-2024 03:03:17.0687 AM
+[ReportManager] Assert that the API response Body contains "data". @07-08-2024 03:03:17.0693 AM
+[ReportManager] Expected "data", and actual "{"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}" @07-08-2024 03:03:17.0718 AM
+[ReportManager] Expected and Actual values are attached. @07-08-2024 03:03:17.0726 AM
+[ReportManager] Successfully created attachment 'Validation Test Data - Expected Value' @07-08-2024 03:03:17.0737 AM
+[ReportManager] Successfully created attachment 'Validation Test Data - Actual Value' @07-08-2024 03:03:17.0739 AM
+[ReportManager] Expected "data", and actual "{"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}" @07-08-2024 03:03:17.0742 AM
+[ReportManager] Assertion passed @07-08-2024 03:03:17.0743 AM
+[ReportManager] The Response body for fetching the user list is Not Null @07-08-2024 03:03:17.0752 AM
+[ReportManager] Assert that the API response extracted value from the JSON path "page" is equal to "2". @07-08-2024 03:03:17.0766 AM
+[ReportManager] Get response jsonvalue; page. @07-08-2024 03:03:18.0509 AM
+[ReportManager] Expected "2", and actual "2" @07-08-2024 03:03:18.0510 AM
+[ReportManager] Expected "2", and actual "2" @07-08-2024 03:03:18.0574 AM
+[ReportManager] Assertion passed @07-08-2024 03:03:18.0575 AM

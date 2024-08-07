@@ -42,7 +42,7 @@
   </parameter>
   <parameter>
     <key>sun.java.command</key>
-    <value>com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket54820 @w@C:\Users\hp\AppData\Local\Temp\idea_working_dirs_testng.tmp -temp C:\Users\hp\AppData\Local\Temp\idea_testng.tmp</value>
+    <value>com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket55338 @w@C:\Users\hp\AppData\Local\Temp\idea_working_dirs_testng.tmp -temp C:\Users\hp\AppData\Local\Temp\idea_testng.tmp</value>
   </parameter>
   <parameter>
     <key>jdk.debug</key>
@@ -146,7 +146,7 @@
   </parameter>
   <parameter>
     <key>java.library.path</key>
-    <value>C:\Users\hp\.jdks\openjdk-22.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Google\Chrome\Application;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;D:\apache-maven-3.9.4\bin;C:\Program Files\Git\cmd;E:\allure-2.25.0\bin;C:\Users\hp\AppData\Local\Programs\Python\Python310-32\Scripts\;C:\Users\hp\AppData\Local\Programs\Python\Python310-32\;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.1\bin;.</value>
+    <value>C:\Users\hp\.jdks\openjdk-22.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;D:\apache-maven-3.9.4\bin;C:\Program Files\Git\cmd;E:\allure-2.25.0\bin;C:\Users\hp\AppData\Local\Programs\Python\Python310-32\Scripts\;C:\Users\hp\AppData\Local\Programs\Python\Python310-32\;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.1\bin;.</value>
   </parameter>
   <parameter>
     <key>CUCUMBER_PUBLISH_ENABLED</key>
@@ -235,6 +235,10 @@
   <parameter>
     <key>appender.console.layout.disableAnsi</key>
     <value>false</value>
+  </parameter>
+  <parameter>
+    <key>openExtentReportsAfterExecution</key>
+    <value>true</value>
   </parameter>
   <parameter>
     <key>cucumber.plugin</key>
