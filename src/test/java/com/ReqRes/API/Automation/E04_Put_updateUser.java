@@ -15,6 +15,7 @@ private SHAFT.API api;
     @Test
     public void valid_Put_updateUserInfo(){
 
+        //Initiate The request body using HashMAp
         HashMap<String,String> body = new HashMap<>();
         body.put("email","test12@gmail.com");
         body.put("first_name","Kim");
@@ -24,6 +25,7 @@ private SHAFT.API api;
 
     api= new SHAFT.API(ObjectModels.BaseURL);
 
+    // Set the type of the method / endpoint / Status Code/ Content Type / Request Body
     api
             .put("/users/3")
             .setRequestBody(body)

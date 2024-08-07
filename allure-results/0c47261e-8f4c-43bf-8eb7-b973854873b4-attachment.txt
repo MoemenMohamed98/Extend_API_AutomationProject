@@ -1,0 +1,43 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                               Test Method: 'com.ReqRes.API.Automation.E03_Post_createUser.valid_Post_createUser'                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/createUser.json"". @07-08-2024 13:10:49.0514 PM
+[ReportManager] File Action "ReadFile" successfully performed. With the following test data "File Path: "D:\Extend_API_AutomationProject\src\test\resources\testDataFiles\createUser.json"". @07-08-2024 13:10:49.0516 PM
+[ReportManager] Response status code: "201", status line: "HTTP/1.1 201 Created" @07-08-2024 13:10:53.0545 PM
+[ReportManager] Actual response status code "201" matches the expected one "201". @07-08-2024 13:10:53.0551 PM
+[ReportManager] Handle response; POST | Target Status Code: 201 | Response Time: 662ms. @07-08-2024 13:10:54.0921 PM
+[ReportManager] Assert that the API response Time is less than or equal to "2000". @07-08-2024 13:10:54.0969 PM
+[ReportManager] Get response time; 662. @07-08-2024 13:10:55.0011 PM
+[ReportManager] Expected "2000", and actual "662" @07-08-2024 13:10:55.0013 PM
+[ReportManager] Expected "2000", and actual "662" @07-08-2024 13:10:55.0017 PM
+[ReportManager] Assertion passed @07-08-2024 13:10:55.0019 PM
+[ReportManager] Assert that the API response Body contains "createdAt". @07-08-2024 13:10:55.0023 PM
+[ReportManager] Expected "createdAt", and actual "{"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-07T10:10:52.201Z"}" @07-08-2024 13:10:55.0028 PM
+[ReportManager] Expected "createdAt", and actual "{"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-07T10:10:52.201Z"}" @07-08-2024 13:10:55.0036 PM
+[ReportManager] Assertion passed @07-08-2024 13:10:55.0037 PM
+[ReportManager] The user is created successfully @07-08-2024 13:10:55.0039 PM
+[ReportManager] Assert that the API response extracted value from the JSON path "id" is equal to "13". @07-08-2024 13:10:55.0077 PM
+[ReportManager] Get response jsonvalue; id. @07-08-2024 13:10:55.0391 PM
+[ReportManager] Expected "13", and actual "13" @07-08-2024 13:10:55.0393 PM
+[ReportManager] Expected "13", and actual "13" @07-08-2024 13:10:55.0457 PM
+[ReportManager] Assertion passed @07-08-2024 13:10:55.0458 PM
+[ReportManager] User ID in response matches the requested ID. @07-08-2024 13:10:55.0459 PM
+[ReportManager] Assert that the API response extracted value from the JSON path "email" is equal to "test123@gmail.com". @07-08-2024 13:10:55.0483 PM
+[ReportManager] Get response jsonvalue; email. @07-08-2024 13:10:55.0487 PM
+[ReportManager] Expected "test123@gmail.com", and actual "test123@gmail.com" @07-08-2024 13:10:55.0488 PM
+[ReportManager] Expected "test123@gmail.com", and actual "test123@gmail.com" @07-08-2024 13:10:55.0489 PM
+[ReportManager] Assertion passed @07-08-2024 13:10:55.0491 PM
+[ReportManager] Check that user profile info has been completed Successfully @07-08-2024 13:10:55.0492 PM
+[ReportManager] Assert that the API response extracted value from the JSON path "first_name" is equal to "Admin". @07-08-2024 13:10:55.0517 PM
+[ReportManager] Get response jsonvalue; first_name. @07-08-2024 13:10:55.0521 PM
+[ReportManager] Expected "Admin", and actual "Admin" @07-08-2024 13:10:55.0524 PM
+[ReportManager] Expected "Admin", and actual "Admin" @07-08-2024 13:10:55.0524 PM
+[ReportManager] Assertion passed @07-08-2024 13:10:55.0525 PM
+[ReportManager] Assert that the API response extracted value from the JSON path "last_name" is equal to "User". @07-08-2024 13:10:55.0547 PM
+[ReportManager] Get response jsonvalue; last_name. @07-08-2024 13:10:55.0550 PM
+[ReportManager] Expected "User", and actual "User" @07-08-2024 13:10:55.0551 PM
+[ReportManager] Expected "User", and actual "User" @07-08-2024 13:10:55.0552 PM
+[ReportManager] Assertion passed @07-08-2024 13:10:55.0553 PM

@@ -10,10 +10,11 @@ import io.restassured.response.Response;
 import org.testng.annotations.Test;
 
 public class E01_Get_fetchUserList {
-   private SHAFT.API api;
+
+    private SHAFT.API api;
 
 
-    @Test(priority = 1)
+    @Test(priority = 1,description="Validate for fetching the use list by GET method")
     public void valid_getTheUserList() {
 
         // Initiate the Base URL
@@ -36,26 +37,38 @@ public class E01_Get_fetchUserList {
                 .assertThatResponse().time().isLessThanOrEquals(2000).perform();
 
         // Assert that Response body is not null
-        api
-                .assertThatResponse()
-                .body().isNotNull()
-                .withCustomReportMessage("The Response body for get profile request is Not Null").perform();
+//        api
+//                .assertThatResponse()
+//                .body().isNotNull()
+//                .withCustomReportMessage("The Response body for get profile request is Not Null").perform();
 
-
-        api.assertThatResponse()
+        // Assert specific JSON values in the response body
+        api.
+                assertThatResponse()
                 .body().contains("data")
                 .withCustomReportMessage("The Response body for fetching the user list is Not Null").perform();
 
-        api.assertThatResponse()
+        api
+                .assertThatResponse()
                 .extractedJsonValue("page")
                 .isEqualTo("1").perform();
 
+        api
+                .assertThatResponse()
+                .extractedJsonValue("per_page")
+                .isEqualTo("6").perform();
 
+        api
+                .assertThatResponse()
+                .extractedJsonValue("total")
+                .isEqualTo("12").perform();
     }
 
-        @Test(priority = 2)
+
+        @Test(priority = 2,description="Validate fetching user list on page 2 by GET method")
         public void valid_fetchTheUserList() {
 
+            // Set the type of the method / endpoint / Status Code
          Response response =
                   given()
                     .baseUri(ObjectModels.BaseURL)
@@ -68,7 +81,9 @@ public class E01_Get_fetchUserList {
                     .assertThat().statusCode(200)
                     .extract().response();
 
+                //********************************Shaft.API Assertions********************************//
 
+            // Assert that Response time is Less than or Equals 2000 MS
             Validations
                     .assertThat().response(response)
                     .time().isLessThanOrEquals(2000).perform();
@@ -83,10 +98,17 @@ public class E01_Get_fetchUserList {
 //                    .body().isNotNull()
 //                    .withCustomReportMessage("The Response body for get profile request is Not Null").perform();
 
+            // Assert specific JSON values in the response body
             Validations
                     .assertThat().response(response)
                     .extractedJsonValue("page")
                     .isEqualTo("2").perform();
+
+            Validations
+                    .assertThat().response(response)
+                    .extractedJsonValue("total")
+                    .isEqualTo("12").perform();
+
 
 
 

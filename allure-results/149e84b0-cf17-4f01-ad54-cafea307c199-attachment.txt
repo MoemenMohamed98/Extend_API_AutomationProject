@@ -1,0 +1,246 @@
+[INFO ] 2024-08-07 13:10:47.494 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.8.3.20240803[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-07 13:10:47.516 [] ReportManager - Checking for engine updates...
+[INFO ] 2024-08-07 13:10:47.572 [] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2024-08-07 13:10:47.587 [] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2024-08-07 13:10:47.614 [main] ReportManager - TestNG run detected...
+[INFO ] 2024-08-07 13:10:48.275 [main] Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[INFO ] 2024-08-07 13:10:48.395 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-07 13:10:48.588 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-08-07 13:10:48.665 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-08-07 13:10:49.144 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                               Test Method: 'com.ReqRes.API.Automation.E03_Post_createUser.valid_Post_createUser'                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-07 13:10:49.514 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/createUser.json"".
+[INFO ] 2024-08-07 13:10:49.516 [main] ReportManager - File Action "ReadFile" successfully performed. With the following test data "File Path: "D:\Extend_API_AutomationProject\src\test\resources\testDataFiles\createUser.json"".
+[INFO ] 2024-08-07 13:10:50.948 [] ReportManager - Loaded OpenCV "opencv_java490".
+[DEBUG] 2024-08-07 13:10:51.831 [main] cache - Couldn't find template in cache for "http-request.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-08-07 13:10:51.834 [main] cache - TemplateLoader.findTemplateSource("http-request.ftl"): Found
+[DEBUG] 2024-08-07 13:10:51.838 [main] cache - Loading template for "http-request.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/hp/.m2/repository/io/qameta/allure/allure-attachments/2.28.1/allure-attachments-2.28.1.jar!/tpl/http-request.ftl"
+[DEBUG] 2024-08-07 13:10:52.341 [] BasicClientConnectionManager - Get connection for route {s}->https://api.github.com:443
+[DEBUG] 2024-08-07 13:10:52.405 [] DefaultClientConnectionOperator - Connecting to api.github.com:443
+[DEBUG] 2024-08-07 13:10:52.511 [main] BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+[DEBUG] 2024-08-07 13:10:52.534 [main] DefaultClientConnectionOperator - Connecting to reqres.in:443
+[DEBUG] 2024-08-07 13:10:52.937 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2024-08-07 13:10:52.937 [] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2024-08-07 13:10:52.940 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2024-08-07 13:10:52.940 [] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2024-08-07 13:10:52.941 [] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2024-08-07 13:10:52.941 [main] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2024-08-07 13:10:52.942 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2024-08-07 13:10:52.943 [main] DefaultClientConnection - Sending request: POST /api/users HTTP/1.1
+[DEBUG] 2024-08-07 13:10:52.943 [main] wire -  >> "POST /api/users HTTP/1.1[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.943 [] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2024-08-07 13:10:52.943 [] DefaultClientConnection - Sending request: GET /repos/ShaftHQ/SHAFT_ENGINE/releases/latest HTTP/1.1
+[DEBUG] 2024-08-07 13:10:52.944 [] wire -  >> "GET /repos/ShaftHQ/SHAFT_ENGINE/releases/latest HTTP/1.1[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.946 [] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.946 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.946 [] wire -  >> "Host: api.github.com[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.946 [main] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.946 [main] wire -  >> "Content-Length: 156[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.946 [] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.946 [main] wire -  >> "Host: reqres.in[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.946 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.947 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.947 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.947 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.946 [] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.947 [main] headers - >> POST /api/users HTTP/1.1
+[DEBUG] 2024-08-07 13:10:52.947 [] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.947 [] wire -  >> "[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.947 [main] headers - >> Accept: */*
+[DEBUG] 2024-08-07 13:10:52.947 [] headers - >> GET /repos/ShaftHQ/SHAFT_ENGINE/releases/latest HTTP/1.1
+[DEBUG] 2024-08-07 13:10:52.947 [main] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2024-08-07 13:10:52.947 [] headers - >> Accept: */*
+[DEBUG] 2024-08-07 13:10:52.948 [] headers - >> Host: api.github.com
+[DEBUG] 2024-08-07 13:10:52.948 [] headers - >> Connection: Keep-Alive
+[DEBUG] 2024-08-07 13:10:52.948 [] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)
+[DEBUG] 2024-08-07 13:10:52.948 [] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2024-08-07 13:10:52.948 [main] headers - >> Content-Length: 156
+[DEBUG] 2024-08-07 13:10:52.949 [main] headers - >> Host: reqres.in
+[DEBUG] 2024-08-07 13:10:52.949 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2024-08-07 13:10:52.949 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)
+[DEBUG] 2024-08-07 13:10:52.949 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2024-08-07 13:10:52.949 [main] wire -  >> "{[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.949 [main] wire -  >> "  "id": 13,[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.949 [main] wire -  >> "  "email": "test123@gmail.com",[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.950 [main] wire -  >> "  "first_name": "Admin",[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.950 [main] wire -  >> "  "last_name": "User",[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.951 [main] wire -  >> "  "avatar": "https://reqres.in/img/faces/13-image.jpg"[\r][\n]"
+[DEBUG] 2024-08-07 13:10:52.951 [main] wire -  >> "}"
+[DEBUG] 2024-08-07 13:10:53.013 [] wire -  << "HTTP/1.1 200 OK[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.017 [] wire -  << "Date: Wed, 07 Aug 2024 10:10:51 GMT[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.017 [] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.017 [] wire -  << "Cache-Control: public, max-age=60, s-maxage=60[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.018 [] wire -  << "Vary: Accept,Accept-Encoding, Accept, X-Requested-With[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.018 [] wire -  << "ETag: W/"41ee8200e7eef958217ae2dfa3b75d2edf44e928324f310b013eac5731134610"[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.018 [] wire -  << "Last-Modified: Sat, 03 Aug 2024 18:11:31 GMT[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.018 [] wire -  << "X-GitHub-Media-Type: github.v3; format=json[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.018 [] wire -  << "x-github-api-version-selected: 2022-11-28[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.018 [] wire -  << "Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.018 [] wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.019 [] wire -  << "Strict-Transport-Security: max-age=31536000; includeSubdomains; preload[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.019 [] wire -  << "X-Frame-Options: deny[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.019 [] wire -  << "X-Content-Type-Options: nosniff[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.019 [] wire -  << "X-XSS-Protection: 0[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.019 [] wire -  << "Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.019 [] wire -  << "Content-Security-Policy: default-src 'none'[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.019 [] wire -  << "Content-Encoding: gzip[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.019 [] wire -  << "Server: github.com[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.019 [] wire -  << "X-RateLimit-Limit: 60[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.020 [] wire -  << "X-RateLimit-Remaining: 53[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.020 [] wire -  << "X-RateLimit-Reset: 1723026690[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.020 [] wire -  << "X-RateLimit-Resource: core[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.020 [] wire -  << "X-RateLimit-Used: 7[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.020 [] wire -  << "Accept-Ranges: bytes[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.020 [] wire -  << "Content-Length: 1464[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.020 [] wire -  << "X-GitHub-Request-Id: C499:1D4BE:1479ABD1:14BDA15B:66B3482B[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.020 [] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.022 [] DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+[DEBUG] 2024-08-07 13:10:53.022 [] headers - << HTTP/1.1 200 OK
+[DEBUG] 2024-08-07 13:10:53.022 [] headers - << Date: Wed, 07 Aug 2024 10:10:51 GMT
+[DEBUG] 2024-08-07 13:10:53.022 [] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2024-08-07 13:10:53.022 [] headers - << Cache-Control: public, max-age=60, s-maxage=60
+[DEBUG] 2024-08-07 13:10:53.022 [] headers - << Vary: Accept,Accept-Encoding, Accept, X-Requested-With
+[DEBUG] 2024-08-07 13:10:53.022 [] headers - << ETag: W/"41ee8200e7eef958217ae2dfa3b75d2edf44e928324f310b013eac5731134610"
+[DEBUG] 2024-08-07 13:10:53.022 [] headers - << Last-Modified: Sat, 03 Aug 2024 18:11:31 GMT
+[DEBUG] 2024-08-07 13:10:53.022 [] headers - << X-GitHub-Media-Type: github.v3; format=json
+[DEBUG] 2024-08-07 13:10:53.022 [] headers - << x-github-api-version-selected: 2022-11-28
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << Access-Control-Allow-Origin: *
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << X-Frame-Options: deny
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << X-Content-Type-Options: nosniff
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << X-XSS-Protection: 0
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << Content-Security-Policy: default-src 'none'
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << Content-Encoding: gzip
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << Server: github.com
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << X-RateLimit-Limit: 60
+[DEBUG] 2024-08-07 13:10:53.023 [] headers - << X-RateLimit-Remaining: 53
+[DEBUG] 2024-08-07 13:10:53.024 [] headers - << X-RateLimit-Reset: 1723026690
+[DEBUG] 2024-08-07 13:10:53.024 [] headers - << X-RateLimit-Resource: core
+[DEBUG] 2024-08-07 13:10:53.024 [] headers - << X-RateLimit-Used: 7
+[DEBUG] 2024-08-07 13:10:53.024 [] headers - << Accept-Ranges: bytes
+[DEBUG] 2024-08-07 13:10:53.024 [] headers - << Content-Length: 1464
+[DEBUG] 2024-08-07 13:10:53.024 [] headers - << X-GitHub-Request-Id: C499:1D4BE:1479ABD1:14BDA15B:66B3482B
+[DEBUG] 2024-08-07 13:10:53.043 [] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2024-08-07 13:10:53.044 [] wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xb5]X[\r]o[0xd3]H[0x10][0xfd]+Q[0x10]:[0xa9][0xaa]7[0xb1][0x13];[0xa9]%[0xc4][0x1]-[0x7]:[0x1][0xe2][0xe8][0xe9]t[0xc7][0xa1]hmo[0x9d]Mm[0xaf][0xd9]][0xa7][0x84][0x88][0xff]~"
+[DEBUG] 2024-08-07 13:10:53.044 [] wire -  << "o[0xfd][0x91][0xf][0xc3][0xb5][0x80]]UM[0xa6][[0xfb][0xcd][0xec][0xcc][0xbc][0x99][0xd9][0xdd][0xe][0xb][0x99][0xc][0xfd][0xe1]R[0xeb]\[0xf9][0xa3][0x11][0xcd]9[0x89][0xb9]^[0x16][0x1][0x9]E:[0x92],[0x17]j[0xf4]nI[0xaf][0xf4][0x8b][0xb7][0xa3]w/[0x9e]<[0xbf]\\[0xbc][0xfe][0xed][0xe5][0xeb][0xb][0xfc]+aT15[0xb2][0xbd][0xb9][0xeb][0x8d]m[0xcf][0x1d][0x9e][0xe][0xa9]RL[0xab]E[0x98][0xa3][\n]"
+[DEBUG] 2024-08-07 13:10:53.044 [] wire -  << "[0x11][0xd0]E[0x9e][0x8][0x1a][0xb5][0xa0][0xab]E[0xf5][0xd3]&[0xd7][0xf0][0xdb][0xc7][0x19]M[0xd9]iB[0x3][0x96]|[0x81][0xae][0xa5]N[0x93][0x96][0xa6][0x3][0xa7][0xdc][0xee][0xe]M[0xe3][0xd1][0x9c]L[0x88]3v[0xa6][0xe3][0xf9]x[0x2]8[0x1e][\r][0xfd][0x9d][0x97][0xe0][0xa4]B/[0x85][0x1c][0xfa][0xdb]a"b[0x9e][0xc1][0xfb][0x15][0xb8]EC[0xcd]E[0xa6][0xde][0x7]B[0xa8]_[0x9b][0xda][0xf3][0xb3][0xb9]3wN[0x87][0x99][0x88][0xd8][0xc2] [\r]_[0x9d][0xbf][0xf2][0xde][0xa6]g[0xe3][0xd7][0xe7][0x17][0xd3]7[0x97][0xf1][0xe6][0xcd][0xf9][0xcb]G[0xc6][0xf7]k[0xaa][0xa9]l[0xfb][0xbe]\l[0x1c]T(&C[0x91]i[0x96][0xe9]2[0xbc]<[0x1b][0xd9][0xee][0xc4][0x9b]?^?[0x9a][0x2]![0x96]5F[0xa9][0xc6][0xf8][0xfc][0xb6][0xdc]0`jtl[0xfa]C[0xf7])[0x8c][0xe8][0x9e][0xdf][0xe9]D[0x9a][0xe7][0xed][0x97][0xf1][0xce][0x95]H[0x12]q[0x3][0xdc][0xf6]6[0x8e][0xd3][0xf2]V[0xd5][0xa3][0x1d][0xc8][0xe][0x90]gqw@[0x80]lGB/[0x19]|[0x8c][0xad][0x9b]<[0x89][0xb9][0xba]+[0xdb]o7[0xb5][0x4][0xd8][0xc2][0x89]J#[0xb6][0x6]R!\[0x92][0xb5][0xf3][0xbc]E[0xcb][0xdb]Ak[0x8][0x18]{[0x93][0xc1][0xce]m[0xc9][0xe2][0x12][0xbb][0x8]T(y^fY[0x17][0x87][0x1c][0x1][0x1]X[0xc8][0x98]f[0xfc]3[0xed][0xc][0xc] [0x5][0xbc][0xb2][0xec]t1[0xb0][0x4][0x0][0x10][#[0xd5];!U[0x8][0xdb]Q.[0xf9][0x9a][0x86][0x1b][0xe3]F[0xc9]B[0xc6][0xd7][0x88]Qw[0xf4][0x16][0x14][0xc0][0xf5]&g [0xdf]S[0xa1]M[0xc0][0xb8]f[0xb][0x1a][0xa5][0xa6]H\[0xd1]D[0xb1]/[0x87]u[0xe0][0x8f][0x8b][0xc5][0xf5][0xcd][0xf9][0x9b]g[0xbf][0xb1]KOM?[0xf2]wb[0x0]h[0xbc]0[0xd5][0xc] [0xad]2[0x84][0xcc][0x8a][0x99]^[0x80][0xf8])[0xd7]\-[0xf1]DJ[0x1][\r][0xcc]o>[0x1f]I[0x94][0xfd]Z[0xf1][0xe9]0[0x97][0xac].[0xf9][0xbb][0xa5]P2[0xaa][0xe1][0x7][0x8a][0xa7][0x86][0xa6][0xde]Y[0xe3][0xb9]5[0x9e]\[0xda]s[0xdf][0xb6][0xfd][0xb1][0xf3][0xf][0xa0][0xf3]"H[0xa0][0xeb][0x9f][0x9a][0xd8][0xe6][0xa9][0xba][0xca][0xfb][0xef]?[0x98][\r][0xc8][0x80]&[0xed][0xfa][0xfb][0xfd][0x8d][0xa9]~[0xbf]][0x84]?[0xf3][0xbc][0x13]l[0xfd]~[0x1b]6[0x10][0xd1][0x6][0xbb][0xf0]`[0xf0][0xd7][0x92][0xea]_[0xd4][0xe0][0xd9][0x92]f1[0x8b][0xfe][0xcd]N[0x6]O[0x8b]4[0x1f]p[0xd1]t[0xa7]@d<[0xa6]2[0xe4][0xd4][0xbf]aA[0x84][0x84]b2[0xa5][0x19][0x8d][0x99][0x1c]\I[0x91][0xe]\2'[0xe3][0x81][0x16][0x10][0xce][0x88]=[0x8]6[0x83]_#[0x96][0xb3],[0xa2]([0xaa][0x3][0x9e][\r][0x9a].}W3[0xca][0x8b]$A_[0x9e][0xce]wV[0x80]X$[0x97]b[0xc5]B[0x9d][0x88]4[0x10][0xd7]~[0xf5]U)[0xb6][0x89][0x8d]\q[0x8c][0xea]J[0x9c]vW[0xee][0xda]G[0xca][0xd5][0xf5][0x6][0xb5][0x87]![0xd1][0xa4][0xbf]R"3[0x11][0x97][0xba]Q[0xef][0x92]Z[0xb9]K&=[0xa8][0x1e][0x1f][0xa9]^[0x15][0x19][0xd7]~[0xf9]i[0x5]ps[0xed]k{\)u[0x9][0xa4][0x1e][0xb4]N[0xcf]vZA1[0x12][0xb][0x11]'[0x8c][0x84]r[0x93]kA4[0xcf][0xae]}[0xf3][0xb1]s[0xf8][0xa4][\n]"
+[DEBUG] 2024-08-07 13:10:53.045 [] wire -  << "5[0xfc]=[0x85][0xd4]9[0xd6][0xae]{[0xa4]=[0xdd][0xa8][0x8f][0x89]_~Z[0xe8][0xf8][0x19][0xe2].[0xa4][0xb5][0xaa][0xb4][0xcf][0x89]Q[0x89]`[0x9f][0x91]q/[0xba][0xa7]G[0xfe][0xa6]9[\r][0x97][0x8c][0xe4][0x82][0xfb][0xf8]m[0xdc][0xed][0x10][0xb7]Jm[0xb3][0xf1][0xee][0xdb][0x9d][0xdc][0xa2][0xd2][0x12][0xe2]S[0x9a][0xdc][0x93]b[0xe7][0x90][0xd9][0x1f][0x91][0xcf][0x9a][0x12][0x94][0xab]B2[0xbf][0xfa][0xda][0xe7][0x98]C[0x9c]Y[0xe5]hH[0x86][0xda][0x9d][0xb7][0xed][0xed]3[0xdb][0xe4]X[0xca]C)[0x94][0xb8][0xd2][0x4]q[0x6][0x9f]PP[0xfc]T[0x99][0x98][0xaf][0xa2] [0xac]S[0xcd]!0[0x82][0xac]$[0xb3]m[0xb]E|[0xcd][0xd9]MIt[0xb3]n[0xb7][0xd6];[0x1b][0xe8][0x1e][0x93][0xe0][0x8a]*[0xcd]$[0x82]AV4[0xbc][0x6][0xed]I[0x84]y[0xd4][0xf4]8[0xbf]^[0xb0][0x9a][0x5][0x98]|=[0xaf]Lv[0x88][\r][0xd3][0x8c][0x91][0xa5][0xe4]t[0xf7][0x9b][0xbb][0xaf][0x84][0xa8][0xc7][0x92])m[0xa1][0x0]!f[0x91][0xf8]G[0x93]25=\[0xe2][0xf6][0x11]4wv[0x98]2G[0xca]M%[0xb4][0x14][0xd8][0x92]RkM[0x13][0xe]g[0x88]]3[0xe8][0xd9][\n]"
+[DEBUG] 2024-08-07 13:10:53.045 [] wire -  << "[0xef][[0x8c]I)&$[0x92]'[0x5][0xe]"[0xca]/[0xff][0xb2][0x8c]_[0xae][0xb8]dV[0xb5]\9e[0x82]#MY3[0x8c][0xd0]Co[0xf2][0xbe]I[0xe0][0xca][0x9c][0xc6][0x0]g[0x89]F[0xc4][0xb2][0xf8][0x9e],[0xd9]3[0xda]tI[0x84][0xa4][0xc8]M[0x8b]*[0xf2][0x9a]@U[0xe]6[0xbd][0xb1][0x8f][0xbd][0xef][[0xa3]a1[0xcb]iJ[0x96][0x8c]&,[0xe3]E[0xea][0xef]$[0xb]SB[0xb3][0xe5][0xba]AN[0x90][0x91]=[0xb4]*o_[0xb0]A[0x87][0xb0][0x8][0x8b]4@[0xe9]h[0x4]k[0x85]s`[0xa5][0x19]<[0xac]g[0x92]R[0xea]c[0xf3]GT[0xfc]Zw[0xce]Ca[0xce][0xa8][0x98]L[0x9b][0xb9][0xe8][0x1e][0x8c]8[0xa2][0xe4][0xd7]F[0x1c][0xe6][0xdb]=h[0xff]n*[0x9a]@D"l1[0xb1]n*[0x93]r\[0xec]\[0xb2]g[0xc7][0xd3][0x92][0xc2][0xbd][0x8e][0xc9][0xc3][0xe5]G[0xd2][0x88]~#[0x1c]$[0xc6][0x94]8NU[0x10] [0xf5][0xd2][0xd2][0xbd]}[0xeb][0xf8][0xa1][0x99][0xd9][0x8c][0xca][0xf5][0xcc][0xdc]C[0xa7][0x98][0xed][0xb9][0x9]+pKa(i[0xc2]`[0x85][0x9][0xc7]a[0xb2][0xa2][0xc5][0x19]q[0xc0][0xc3]r[0x82][0xea]e[0xef][0xb3]}5[0x84][0xd6];[0xa7][0x8a][0x9a][0x92][0xe5]T[0xd1][0x3]%g[0xfb]r[0xf0]CSE{z[0xa8][0xa6][\n]"
+[DEBUG] 2024-08-07 13:10:53.045 [] wire -  << "[0x18]WM[0x15]=[0xa4]f9[0xd4][0xfe][0x99][0xa3]-[0xb2][0x1]s[0xd8]%[0xda][0x80]"[0x1b][0xcc]v&[0xeb]_[0x89]%[\r][0xf0][0xc1][0xd9]O[0x9c][0x8d]fe[0x5][0xb0][0xbd][0x99]g[0x5]Ele81aX[0xc5][0xd5][0x98]d[0x9f]BV^[0x91]X[0x1c][0xbd][0xd0]\}[0xe2][0xec][0x9][0x19]gft[0xe8][0xea][0x92][0xa3][0x7][0xfd]e[0x19]<<[0xa1][0xf7][0x80][0x9][0x6][0x99][0x9f][0x93][0x93][0xe7][0xd8]N}[0x12][0xc5][0x1d][0xe3][0xc9][0x89][0xff][0xdd]GG$@N%"
+[DEBUG] 2024-08-07 13:10:53.046 [] wire -  << "[0xc3]1[0x17][0xd9]e[0xae]0=gJ[0x8]*[0xcd][0xd1][0x8d]f[\n]"
+[DEBUG] 2024-08-07 13:10:53.046 [] wire -  << "&[0x94][0x97]H[0xa1](2[0x9c][0xfe][0x9d]/[0xff][0x1]v[0x11][0xab][0xa9]I[0x16][0x0][0x0]"
+[DEBUG] 2024-08-07 13:10:53.046 [] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[DEBUG] 2024-08-07 13:10:53.062 [main] wire -  << "HTTP/1.1 201 Created[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.063 [main] wire -  << "Date: Wed, 07 Aug 2024 10:10:52 GMT[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.063 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.063 [main] wire -  << "Content-Length: 168[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.063 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.063 [main] wire -  << "Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1723025452&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=jdyPIdy0RX3GXrMcYIvhxcA9y5n%2FHVrDEXN5U1RR6ec%3D"}]}[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.063 [main] wire -  << "Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1723025452&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=jdyPIdy0RX3GXrMcYIvhxcA9y5n%2FHVrDEXN5U1RR6ec%3D[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.063 [main] wire -  << "Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.063 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.063 [main] wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.063 [main] wire -  << "Etag: W/"a8-noWmOgwzxg2RUzySSRv2rj0QmNs"[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.064 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.064 [main] wire -  << "CF-Cache-Status: DYNAMIC[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.064 [main] wire -  << "Server: cloudflare[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.064 [main] wire -  << "CF-RAY: 8af67ab3f84af196-CDG[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.064 [main] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-07 13:10:53.064 [main] DefaultClientConnection - Receiving response: HTTP/1.1 201 Created
+[DEBUG] 2024-08-07 13:10:53.064 [main] headers - << HTTP/1.1 201 Created
+[DEBUG] 2024-08-07 13:10:53.064 [main] headers - << Date: Wed, 07 Aug 2024 10:10:52 GMT
+[DEBUG] 2024-08-07 13:10:53.064 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2024-08-07 13:10:53.064 [main] headers - << Content-Length: 168
+[DEBUG] 2024-08-07 13:10:53.064 [main] headers - << Connection: keep-alive
+[DEBUG] 2024-08-07 13:10:53.064 [main] headers - << Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1723025452&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=jdyPIdy0RX3GXrMcYIvhxcA9y5n%2FHVrDEXN5U1RR6ec%3D"}]}
+[DEBUG] 2024-08-07 13:10:53.064 [main] headers - << Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1723025452&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=jdyPIdy0RX3GXrMcYIvhxcA9y5n%2FHVrDEXN5U1RR6ec%3D
+[DEBUG] 2024-08-07 13:10:53.064 [main] headers - << Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+[DEBUG] 2024-08-07 13:10:53.065 [main] headers - << X-Powered-By: Express
+[DEBUG] 2024-08-07 13:10:53.065 [main] headers - << Access-Control-Allow-Origin: *
+[DEBUG] 2024-08-07 13:10:53.065 [main] headers - << Etag: W/"a8-noWmOgwzxg2RUzySSRv2rj0QmNs"
+[DEBUG] 2024-08-07 13:10:53.065 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2024-08-07 13:10:53.065 [main] headers - << CF-Cache-Status: DYNAMIC
+[DEBUG] 2024-08-07 13:10:53.065 [main] headers - << Server: cloudflare
+[DEBUG] 2024-08-07 13:10:53.065 [main] headers - << CF-RAY: 8af67ab3f84af196-CDG
+[DEBUG] 2024-08-07 13:10:53.065 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2024-08-07 13:10:53.065 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[DEBUG] 2024-08-07 13:10:53.462 [] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@66252443
+[DEBUG] 2024-08-07 13:10:53.462 [] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[DEBUG] 2024-08-07 13:10:53.467 [main] wire -  << "{"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-07T10:10:52.201Z"}"
+[DEBUG] 2024-08-07 13:10:53.467 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@467cd4b9
+[DEBUG] 2024-08-07 13:10:53.467 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[DEBUG] 2024-08-07 13:10:53.496 [main] cache - Couldn't find template in cache for "http-response.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-08-07 13:10:53.496 [main] cache - TemplateLoader.findTemplateSource("http-response.ftl"): Found
+[DEBUG] 2024-08-07 13:10:53.496 [main] cache - Loading template for "http-response.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/hp/.m2/repository/io/qameta/allure/allure-attachments/2.28.1/allure-attachments-2.28.1.jar!/tpl/http-response.ftl"
+[INFO ] 2024-08-07 13:10:53.546 [main] ReportManager - Response status code: "201", status line: "HTTP/1.1 201 Created"
+[INFO ] 2024-08-07 13:10:53.551 [main] ReportManager - Actual response status code "201" matches the expected one "201".
+[INFO ] 2024-08-07 13:10:54.917 [] ReportManager - Engine Update check done for the day. 👍
+[INFO ] 2024-08-07 13:10:54.922 [main] ReportManager - Handle response; POST | Target Status Code: 201 | Response Time: 662ms.
+[INFO ] 2024-08-07 13:10:54.923 [main] ReportManager - {"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-07T10:10:52.201Z"}
+[INFO ] 2024-08-07 13:10:54.970 [main] ReportManager - Assert that the API response Time is less than or equal to "2000".
+[INFO ] 2024-08-07 13:10:55.012 [main] ReportManager - Get response time; 662.
+[DEBUG] 2024-08-07 13:10:55.014 [main] ReportManager - Expected "2000", and actual "662"
+[INFO ] 2024-08-07 13:10:55.017 [main] ReportManager - Expected "2000", and actual "662"
+[INFO ] 2024-08-07 13:10:55.019 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-07 13:10:55.023 [main] ReportManager - Assert that the API response Body contains "createdAt".
+[DEBUG] 2024-08-07 13:10:55.028 [main] ReportManager - Expected "createdAt", and actual "{"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-07T10:10:52.201Z"}"
+[INFO ] 2024-08-07 13:10:55.036 [main] ReportManager - Expected "createdAt", and actual "{"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-07T10:10:52.201Z"}"
+[INFO ] 2024-08-07 13:10:55.037 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-07 13:10:55.039 [main] ReportManager - The user is created successfully
+[INFO ] 2024-08-07 13:10:55.077 [main] ReportManager - Assert that the API response extracted value from the JSON path "id" is equal to "13".
+[DEBUG] 2024-08-07 13:10:55.375 [main] CompiledPath - Evaluating path: $['id']
+[INFO ] 2024-08-07 13:10:55.391 [main] ReportManager - Get response jsonvalue; id.
+[DEBUG] 2024-08-07 13:10:55.393 [main] ReportManager - Expected "13", and actual "13"
+[INFO ] 2024-08-07 13:10:55.457 [main] ReportManager - Expected "13", and actual "13"
+[INFO ] 2024-08-07 13:10:55.458 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-07 13:10:55.459 [main] ReportManager - User ID in response matches the requested ID.
+[INFO ] 2024-08-07 13:10:55.483 [main] ReportManager - Assert that the API response extracted value from the JSON path "email" is equal to "test123@gmail.com".
+[DEBUG] 2024-08-07 13:10:55.486 [main] CompiledPath - Evaluating path: $['email']
+[INFO ] 2024-08-07 13:10:55.487 [main] ReportManager - Get response jsonvalue; email.
+[DEBUG] 2024-08-07 13:10:55.488 [main] ReportManager - Expected "test123@gmail.com", and actual "test123@gmail.com"
+[INFO ] 2024-08-07 13:10:55.490 [main] ReportManager - Expected "test123@gmail.com", and actual "test123@gmail.com"
+[INFO ] 2024-08-07 13:10:55.491 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-07 13:10:55.492 [main] ReportManager - Check that user profile info has been completed Successfully
+[INFO ] 2024-08-07 13:10:55.517 [main] ReportManager - Assert that the API response extracted value from the JSON path "first_name" is equal to "Admin".
+[DEBUG] 2024-08-07 13:10:55.520 [main] CompiledPath - Evaluating path: $['first_name']
+[INFO ] 2024-08-07 13:10:55.522 [main] ReportManager - Get response jsonvalue; first_name.
+[DEBUG] 2024-08-07 13:10:55.524 [main] ReportManager - Expected "Admin", and actual "Admin"
+[INFO ] 2024-08-07 13:10:55.524 [main] ReportManager - Expected "Admin", and actual "Admin"
+[INFO ] 2024-08-07 13:10:55.525 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-07 13:10:55.547 [main] ReportManager - Assert that the API response extracted value from the JSON path "last_name" is equal to "User".
+[DEBUG] 2024-08-07 13:10:55.549 [main] CompiledPath - Evaluating path: $['last_name']
+[INFO ] 2024-08-07 13:10:55.550 [main] ReportManager - Get response jsonvalue; last_name.
+[DEBUG] 2024-08-07 13:10:55.552 [main] ReportManager - Expected "User", and actual "User"
+[INFO ] 2024-08-07 13:10:55.552 [main] ReportManager - Expected "User", and actual "User"
+[INFO ] 2024-08-07 13:10:55.553 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-07 13:10:55.563 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: valid_Post_createUser'
+[INFO ] 2024-08-07 13:10:55.563 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                    Finished Execution of Test Method: 'com.ReqRes.API.Automation.E03_Post_createUser.valid_Post_createUser'                    
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-07 13:10:55.751 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine tear down configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTearDown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-07 13:10:55.754 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
