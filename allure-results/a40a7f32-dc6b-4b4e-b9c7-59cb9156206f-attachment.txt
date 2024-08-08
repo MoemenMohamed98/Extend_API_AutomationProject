@@ -1,0 +1,40 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 6' test cases in the current suite                                        
+                              Test Method: 'com.ReqRes.API.Automation.E04_Put_updateUser.valid_Put_updateUserInfo'                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @08-08-2024 04:54:15.0985 AM
+[ReportManager] Actual response status code "200" matches the expected one "200". @08-08-2024 04:54:15.0986 AM
+[ReportManager] Handle response; PUT | Target Status Code: 200 | Response Time: 320ms. @08-08-2024 04:54:16.0037 AM
+[ReportManager] Assert that the API response Time is less than or equal to "2000". @08-08-2024 04:54:16.0045 AM
+[ReportManager] Get response time; 320. @08-08-2024 04:54:16.0048 AM
+[ReportManager] Expected "2000", and actual "320" @08-08-2024 04:54:16.0049 AM
+[ReportManager] Expected "2000", and actual "320" @08-08-2024 04:54:16.0050 AM
+[ReportManager] Assertion passed @08-08-2024 04:54:16.0050 AM
+[ReportManager] Assert that the API response Body contains "updatedAt". @08-08-2024 04:54:16.0056 AM
+[ReportManager] Expected "updatedAt", and actual "{"phoneNumber":"01033333333","last_name":"Kim","first_name":"Kim","email":"test12@gmail.com","updatedAt":"2024-08-08T01:54:16.070Z"}" @08-08-2024 04:54:16.0059 AM
+[ReportManager] Expected "updatedAt", and actual "{"phoneNumber":"01033333333","last_name":"Kim","first_name":"Kim","email":"test12@gmail.com","updatedAt":"2024-08-08T01:54:16.070Z"}" @08-08-2024 04:54:16.0063 AM
+[ReportManager] Assertion passed @08-08-2024 04:54:16.0066 AM
+[ReportManager] The user is updated successfully @08-08-2024 04:54:16.0067 AM
+[ReportManager] Assert that the API response extracted value from the JSON path "email" is equal to "test12@gmail.com". @08-08-2024 04:54:16.0069 AM
+[ReportManager] Get response jsonvalue; email. @08-08-2024 04:54:16.0072 AM
+[ReportManager] Expected "test12@gmail.com", and actual "test12@gmail.com" @08-08-2024 04:54:16.0072 AM
+[ReportManager] Expected "test12@gmail.com", and actual "test12@gmail.com" @08-08-2024 04:54:16.0072 AM
+[ReportManager] Assertion passed @08-08-2024 04:54:16.0073 AM
+[ReportManager] Check that user email has been updated successfully. @08-08-2024 04:54:16.0073 AM
+[ReportManager] Assert that the API response extracted value from the JSON path "phoneNumber" is equal to "01033333333". @08-08-2024 04:54:16.0075 AM
+[ReportManager] Get response jsonvalue; phoneNumber. @08-08-2024 04:54:16.0078 AM
+[ReportManager] Expected "01033333333", and actual "01033333333" @08-08-2024 04:54:16.0078 AM
+[ReportManager] Expected "01033333333", and actual "01033333333" @08-08-2024 04:54:16.0078 AM
+[ReportManager] Assertion passed @08-08-2024 04:54:16.0079 AM
+[ReportManager] Assert that the API response extracted value from the JSON path "first_name" is equal to "Kim". @08-08-2024 04:54:16.0081 AM
+[ReportManager] Get response jsonvalue; first_name. @08-08-2024 04:54:16.0083 AM
+[ReportManager] Expected "Kim", and actual "Kim" @08-08-2024 04:54:16.0084 AM
+[ReportManager] Expected "Kim", and actual "Kim" @08-08-2024 04:54:16.0084 AM
+[ReportManager] Assertion passed @08-08-2024 04:54:16.0085 AM
+[ReportManager] Assert that the API response extracted value from the JSON path "last_name" is equal to "Kim". @08-08-2024 04:54:16.0092 AM
+[ReportManager] Get response jsonvalue; last_name. @08-08-2024 04:54:16.0094 AM
+[ReportManager] Expected "Kim", and actual "Kim" @08-08-2024 04:54:16.0095 AM
+[ReportManager] Expected "Kim", and actual "Kim" @08-08-2024 04:54:16.0095 AM
+[ReportManager] Assertion passed @08-08-2024 04:54:16.0095 AM

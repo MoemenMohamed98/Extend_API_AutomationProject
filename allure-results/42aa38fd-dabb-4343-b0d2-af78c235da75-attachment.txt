@@ -1,0 +1,19 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '6 out of 6' test cases in the current suite                                        
+                              Test Method: 'com.ReqRes.API.Automation.E05_Delete_deleteUser.valid_Delete_User_byID'                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "204", status line: "HTTP/1.1 204 No Content" @08-08-2024 04:54:16.0556 AM
+[ReportManager] Actual response status code "204" matches the expected one "204". @08-08-2024 04:54:16.0558 AM
+[ReportManager] Handle response; DELETE | Target Status Code: 204 | Response Time: 333ms. @08-08-2024 04:54:16.0568 AM
+[ReportManager] Assert that the API response Time is less than or equal to "3000". @08-08-2024 04:54:16.0573 AM
+[ReportManager] Get response time; 333. @08-08-2024 04:54:16.0593 AM
+[ReportManager] Expected "3000", and actual "333" @08-08-2024 04:54:16.0595 AM
+[ReportManager] Expected "3000", and actual "333" @08-08-2024 04:54:16.0596 AM
+[ReportManager] Assertion passed @08-08-2024 04:54:16.0598 AM
+[ReportManager] Assert that the API response Body is not NULL. @08-08-2024 04:54:16.0626 AM
+[ReportManager] Expected "null", and actual "" @08-08-2024 04:54:16.0633 AM
+[ReportManager] Expected "null", and actual "" @08-08-2024 04:54:16.0637 AM
+[ReportManager] Assertion passed @08-08-2024 04:54:16.0637 AM
+[ReportManager] The user info is deleted successfully @08-08-2024 04:54:16.0638 AM

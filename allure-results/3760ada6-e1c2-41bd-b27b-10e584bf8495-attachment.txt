@@ -1,0 +1,983 @@
+[INFO ] 2024-08-08 04:54:00.631 [] ReportManager - [38;2;0;96;168;1m[INFO][m [mInitializing Project Structure... [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 04:54:00 AM[m 
+[INFO ] 2024-08-08 04:54:00.622 [] ReportManager - Initializing Project Structure...
+[INFO ] 2024-08-08 04:54:01.384 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m[TestNG] Running:
+[INFO ] 2024-08-08 04:54:01.385 [main] ReportManager -   D:\Extend_API_AutomationProject\TestNG_Execution_RunClasses.xml
+[INFO ] 2024-08-08 04:54:01.386 [main] ReportManager -  [m[90m| org.testng.internal.Utils[m [90m- main[m [90m- 04:54:01 AM[m 
+[INFO ] 2024-08-08 04:54:01.383 [main] Utils - [TestNG] Running:
+  D:\Extend_API_AutomationProject\TestNG_Execution_RunClasses.xml
+
+[INFO ] 2024-08-08 04:54:01.475 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:01.475 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:01.475 [main] ReportManager -                                          Starting execution of setup extent report configuration method                                         
+[INFO ] 2024-08-08 04:54:01.475 [main] ReportManager -                                        'com.ReqRes.API.Automation.E01_Get_fetchUserList.setupExtentReport'                                       
+[INFO ] 2024-08-08 04:54:01.475 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:01.476 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:01 AM[m 
+[INFO ] 2024-08-08 04:54:01.475 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                         Starting execution of setup extent report configuration method                                         
+                                       'com.ReqRes.API.Automation.E01_Get_fetchUserList.setupExtentReport'                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:03.869 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:03.870 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:03.870 [main] ReportManager -                                          Starting execution of setup extent report configuration method                                         
+[INFO ] 2024-08-08 04:54:03.870 [main] ReportManager -                                         'com.ReqRes.API.Automation.E02_Get_fetchUserID.setupExtentReport'                                        
+[INFO ] 2024-08-08 04:54:03.871 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:03.872 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:03 AM[m 
+[INFO ] 2024-08-08 04:54:03.869 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                         Starting execution of setup extent report configuration method                                         
+                                        'com.ReqRes.API.Automation.E02_Get_fetchUserID.setupExtentReport'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:03.880 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:03.880 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:03.880 [main] ReportManager -                                          Starting execution of setup extent report configuration method                                         
+[INFO ] 2024-08-08 04:54:03.881 [main] ReportManager -                                         'com.ReqRes.API.Automation.E03_Post_createUser.setupExtentReport'                                        
+[INFO ] 2024-08-08 04:54:03.881 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:03.881 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:03 AM[m 
+[INFO ] 2024-08-08 04:54:03.879 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                         Starting execution of setup extent report configuration method                                         
+                                        'com.ReqRes.API.Automation.E03_Post_createUser.setupExtentReport'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:03.903 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:03.903 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:03.903 [main] ReportManager -                                          Starting execution of setup extent report configuration method                                         
+[INFO ] 2024-08-08 04:54:03.903 [main] ReportManager -                                         'com.ReqRes.API.Automation.E04_Put_updateUser.setupExtentReport'                                        
+[INFO ] 2024-08-08 04:54:03.904 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:03.904 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:03 AM[m 
+[INFO ] 2024-08-08 04:54:03.903 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                         Starting execution of setup extent report configuration method                                         
+                                        'com.ReqRes.API.Automation.E04_Put_updateUser.setupExtentReport'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:03.918 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:03.919 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:03.919 [main] ReportManager -                                          Starting execution of setup extent report configuration method                                         
+[INFO ] 2024-08-08 04:54:03.919 [main] ReportManager -                                        'com.ReqRes.API.Automation.E05_Delete_deleteUser.setupExtentReport'                                       
+[INFO ] 2024-08-08 04:54:03.919 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:03.920 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:03 AM[m 
+[INFO ] 2024-08-08 04:54:03.918 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                         Starting execution of setup extent report configuration method                                         
+                                       'com.ReqRes.API.Automation.E05_Delete_deleteUser.setupExtentReport'                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:04.139 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:04.140 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:04.140 [main] ReportManager -                                              Starting execution of suite setup configuration method                                             
+[INFO ] 2024-08-08 04:54:04.140 [main] ReportManager -                                           'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+[INFO ] 2024-08-08 04:54:04.140 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:04.140 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:04 AM[m 
+[INFO ] 2024-08-08 04:54:04.139 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:04.150 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mInitializing Important Links... [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:04 AM[m 
+[INFO ] 2024-08-08 04:54:04.150 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-08-08 04:54:04.194 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mInitializing Properties... [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:04 AM[m 
+[INFO ] 2024-08-08 04:54:04.194 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-08-08 04:54:04.220 [] ReportManager - [38;2;0;96;168;1m[INFO][m [mLoaded OpenCV "opencv_java490". [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 04:54:04 AM[m 
+[INFO ] 2024-08-08 04:54:04.220 [] ReportManager - Loaded OpenCV "opencv_java490".
+[INFO ] 2024-08-08 04:54:04.562 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:04.562 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:04.562 [main] ReportManager -                                                 Starting execution of setup configuration method                                                
+[INFO ] 2024-08-08 04:54:04.562 [main] ReportManager -                                              'com.ReqRes.API.Automation.E01_Get_fetchUserList.setup'                                             
+[INFO ] 2024-08-08 04:54:04.562 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:04.562 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:04 AM[m 
+[INFO ] 2024-08-08 04:54:04.561 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of setup configuration method                                                
+                                             'com.ReqRes.API.Automation.E01_Get_fetchUserList.setup'                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:04.962 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:04.962 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:04.962 [main] ReportManager -                                         Starting Execution: '1 out of 6' test cases in the current suite                                        
+[INFO ] 2024-08-08 04:54:04.962 [main] ReportManager -                                Test Method: 'com.ReqRes.API.Automation.E01_Get_fetchUserList.valid_getTheUserList'                               
+[INFO ] 2024-08-08 04:54:04.966 [main] ReportManager -                                       Test Description: 'Validate for fetching the use list by GET method'                                      
+[INFO ] 2024-08-08 04:54:04.967 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:04.967 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:04 AM[m 
+[INFO ] 2024-08-08 04:54:04.959 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 6' test cases in the current suite                                        
+                               Test Method: 'com.ReqRes.API.Automation.E01_Get_fetchUserList.valid_getTheUserList'                               
+                                      Test Description: 'Validate for fetching the use list by GET method'                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[DEBUG] 2024-08-08 04:54:06.102 [main] cache - Couldn't find template in cache for "http-request.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-08-08 04:54:06.106 [main] cache - TemplateLoader.findTemplateSource("http-request.ftl"): Found
+[DEBUG] 2024-08-08 04:54:06.110 [main] cache - Loading template for "http-request.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/hp/.m2/repository/io/qameta/allure/allure-attachments/2.28.1/allure-attachments-2.28.1.jar!/tpl/http-request.ftl"
+[DEBUG] 2024-08-08 04:54:07.524 [main] BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+[DEBUG] 2024-08-08 04:54:07.524 [] BasicClientConnectionManager - Get connection for route {s}->https://api.github.com:443
+[DEBUG] 2024-08-08 04:54:07.569 [] DefaultClientConnectionOperator - Connecting to api.github.com:443
+[DEBUG] 2024-08-08 04:54:07.569 [main] DefaultClientConnectionOperator - Connecting to reqres.in:443
+[DEBUG] 2024-08-08 04:54:08.858 [] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2024-08-08 04:54:08.858 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2024-08-08 04:54:08.861 [] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2024-08-08 04:54:08.861 [] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2024-08-08 04:54:08.861 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2024-08-08 04:54:08.861 [main] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2024-08-08 04:54:08.862 [] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2024-08-08 04:54:08.862 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2024-08-08 04:54:08.863 [] DefaultClientConnection - Sending request: GET /repos/ShaftHQ/SHAFT_ENGINE/releases/latest HTTP/1.1
+[DEBUG] 2024-08-08 04:54:08.863 [main] DefaultClientConnection - Sending request: GET /api/users HTTP/1.1
+[DEBUG] 2024-08-08 04:54:08.863 [] wire -  >> "GET /repos/ShaftHQ/SHAFT_ENGINE/releases/latest HTTP/1.1[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.863 [main] wire -  >> "GET /api/users HTTP/1.1[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.865 [main] wire -  >> "Content-Type: */*; charset=UTF-8[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.865 [] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.865 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.865 [] wire -  >> "Host: api.github.com[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.865 [main] wire -  >> "Host: reqres.in[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.866 [] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.866 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.866 [] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.866 [] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.866 [] wire -  >> "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.866 [] headers - >> GET /repos/ShaftHQ/SHAFT_ENGINE/releases/latest HTTP/1.1
+[DEBUG] 2024-08-08 04:54:08.866 [] headers - >> Accept: */*
+[DEBUG] 2024-08-08 04:54:08.866 [] headers - >> Host: api.github.com
+[DEBUG] 2024-08-08 04:54:08.866 [] headers - >> Connection: Keep-Alive
+[DEBUG] 2024-08-08 04:54:08.866 [] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)
+[DEBUG] 2024-08-08 04:54:08.866 [] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2024-08-08 04:54:08.866 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.867 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.867 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.867 [main] headers - >> GET /api/users HTTP/1.1
+[DEBUG] 2024-08-08 04:54:08.867 [main] headers - >> Content-Type: */*; charset=UTF-8
+[DEBUG] 2024-08-08 04:54:08.867 [main] headers - >> Accept: */*
+[DEBUG] 2024-08-08 04:54:08.867 [main] headers - >> Host: reqres.in
+[DEBUG] 2024-08-08 04:54:08.867 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2024-08-08 04:54:08.867 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)
+[DEBUG] 2024-08-08 04:54:08.867 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2024-08-08 04:54:08.929 [main] wire -  << "HTTP/1.1 200 OK[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.933 [main] wire -  << "Date: Thu, 08 Aug 2024 01:54:09 GMT[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.933 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.933 [main] wire -  << "Transfer-Encoding: chunked[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.933 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.933 [main] wire -  << "Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1722924824&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=OHo07Qdz%2Fnl7OXsm4GZHsnKg80VBpihpkk9YxzXIc9s%3D"}]}[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.934 [main] wire -  << "Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1722924824&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=OHo07Qdz%2Fnl7OXsm4GZHsnKg80VBpihpkk9YxzXIc9s%3D[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.934 [main] wire -  << "Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.934 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.934 [main] wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.934 [main] wire -  << "Etag: W/"3e4-2RLXvr5wTg9YQ6aH95CkYoFNuO8"[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.934 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.934 [main] wire -  << "Cache-Control: max-age=14400[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.935 [main] wire -  << "CF-Cache-Status: HIT[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.936 [main] wire -  << "Age: 4359[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.936 [main] wire -  << "Vary: Accept-Encoding[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.936 [main] wire -  << "Server: cloudflare[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.936 [main] wire -  << "CF-RAY: 8afbe076bfe511a8-MRS[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.936 [main] wire -  << "Content-Encoding: gzip[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.936 [main] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.938 [main] DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+[DEBUG] 2024-08-08 04:54:08.938 [main] headers - << HTTP/1.1 200 OK
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << Date: Thu, 08 Aug 2024 01:54:09 GMT
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << Transfer-Encoding: chunked
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << Connection: keep-alive
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1722924824&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=OHo07Qdz%2Fnl7OXsm4GZHsnKg80VBpihpkk9YxzXIc9s%3D"}]}
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1722924824&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=OHo07Qdz%2Fnl7OXsm4GZHsnKg80VBpihpkk9YxzXIc9s%3D
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << X-Powered-By: Express
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << Access-Control-Allow-Origin: *
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << Etag: W/"3e4-2RLXvr5wTg9YQ6aH95CkYoFNuO8"
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2024-08-08 04:54:08.939 [main] headers - << Cache-Control: max-age=14400
+[DEBUG] 2024-08-08 04:54:08.940 [main] headers - << CF-Cache-Status: HIT
+[DEBUG] 2024-08-08 04:54:08.940 [main] headers - << Age: 4359
+[DEBUG] 2024-08-08 04:54:08.940 [main] headers - << Vary: Accept-Encoding
+[DEBUG] 2024-08-08 04:54:08.940 [main] headers - << Server: cloudflare
+[DEBUG] 2024-08-08 04:54:08.940 [main] headers - << CF-RAY: 8afbe076bfe511a8-MRS
+[DEBUG] 2024-08-08 04:54:08.940 [main] headers - << Content-Encoding: gzip
+[DEBUG] 2024-08-08 04:54:08.971 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2024-08-08 04:54:08.973 [main] wire -  << "170[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.974 [main] wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0x8d][0xd1]MK[0xc4]0[0x10][0x6][0xe0][0xbf][0x12][0xc7]kl[0xd9][0xf][0xf7][0x90][0x93]([0xa2][0x8]^[0x16][0xc1][0x83][0x88][0x8c][0xed]l[0x1b]m[0x9a]8[0x99][0xed]*[0xcb][0xfe]w[0xd9][0xae]X)][0xe9]-[0x1f][0xef][0x9b]y [[0x8]X[0x10][0x98][0x89][0x86]@[0xfc]r[0xd8],4[0x88][0x17][0xac][0xc0]L[0xa6]?[0xcb][0xf6]&[0x82][0x99]j[0xc8]Q[0x10][0xcc][0xd3][0x16]l[0xde][0xf6][0xc8][0xa1][0xad][0xc0]@A[0x9e][0xb]J^[0xab][0xb5][0x94][0x17]L[0x1f]L1[0xb1]5hXY[0x8e][0xf2]R[0xa3]#0p[0xd3][0xa6]@C[0x85][0xdd][0xe1][0xe5][0xbe][0x3][0x1a][0xb0]AA[0x6][0x3][0xa5]H[0x88]&M[0x9f]I[0xad]+[0xd2][0x15]f[0x14][0xd3][0xc9][0x99]uXP[0xf2][0x16][\n]"
+[DEBUG] 2024-08-08 04:54:08.974 [main] wire -  << "[0xd8][0xe9][0x3]c[0xda]1[0xde][0xb0]&I6[0x84][\r][0xf1]q[0xc6][0xdd]>[0xd5]S<[0xb6][0x9d][0xb1][0x8c][0xe9][0x0]c[0xd6]1[0xc8]9L6[0xbe].[0x8e][0x1b][0xae][0x9d][0xc3]>[0xc1][0xd7][0xc5]X[0xc0]l[0x0]0[0xff][0x3]h()}%[0xff][0xcc]o[0xfa][0xff]p[0xeb]+[0x19];~>0[0xfe][0xbc][0x1b][0x9f][0x95][0xc8][0x15][0xc5][0xc4]yf[0x1b][0x8f]#[0xae][0xe][0xb9][0x1e][0xe4][0xbe]m[0x8d][0xa5][0x9c][0xf]P[0x16][0x1d]E[0x18]3[0xfa]J[0x18][0x9d][0xff][0x7][0xf2][0xd0][0xa6]z[0x8e][0xe5][0xbe]3[0x96][0xb1][0xf8][0xcb]x[0xd6][0x10][0xd7]!x[0x16]0[Xs5X>[0xfd][0xc9][0x9c][0x95][0x84][0xb9]m[0xff]^[0xe8]S[0xf6][0x1c][0xaf][0xde][0x89][0x82]Z[0xd2][0xc7][0x92][0xa2]Z1[0x91]V[0x99][0xaf][0x85][0xed][0xeb]Z[0xac][0xaf][0xa3][0x12][0xbf]A[0xce][0xa3][0x8a][0xc4][\r][0xb1][0xca]|[0x94][0xa8][0x90]Ia[0x8]L[0x99]E[0xa1][0xfc][0x4]v[0xbb]o[0xcc]?[0x16][0xce][0xe4][0x3][0x0][0x0]"
+[DEBUG] 2024-08-08 04:54:08.974 [main] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.974 [main] wire -  << "0[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.974 [main] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:08.974 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[DEBUG] 2024-08-08 04:54:09.122 [] wire -  << "HTTP/1.1 200 OK[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.122 [] wire -  << "Date: Thu, 08 Aug 2024 01:54:09 GMT[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.122 [] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.123 [] wire -  << "Cache-Control: public, max-age=60, s-maxage=60[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.123 [] wire -  << "Vary: Accept,Accept-Encoding, Accept, X-Requested-With[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.123 [] wire -  << "ETag: W/"41ee8200e7eef958217ae2dfa3b75d2edf44e928324f310b013eac5731134610"[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.123 [] wire -  << "Last-Modified: Sat, 03 Aug 2024 18:11:31 GMT[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.123 [] wire -  << "X-GitHub-Media-Type: github.v3; format=json[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.123 [] wire -  << "x-github-api-version-selected: 2022-11-28[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.123 [] wire -  << "Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.123 [] wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.124 [] wire -  << "Strict-Transport-Security: max-age=31536000; includeSubdomains; preload[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.124 [] wire -  << "X-Frame-Options: deny[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.124 [] wire -  << "X-Content-Type-Options: nosniff[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.125 [] wire -  << "X-XSS-Protection: 0[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.125 [] wire -  << "Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.125 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@1cc81ea1
+[DEBUG] 2024-08-08 04:54:09.125 [] wire -  << "Content-Security-Policy: default-src 'none'[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.125 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[DEBUG] 2024-08-08 04:54:09.125 [] wire -  << "Content-Encoding: gzip[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.125 [] wire -  << "Server: github.com[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.125 [] wire -  << "X-RateLimit-Limit: 60[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.125 [] wire -  << "X-RateLimit-Remaining: 49[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.125 [] wire -  << "X-RateLimit-Reset: 1723082644[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.126 [] wire -  << "X-RateLimit-Resource: core[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.126 [] wire -  << "X-RateLimit-Used: 11[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.126 [] wire -  << "Accept-Ranges: bytes[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.126 [] wire -  << "Content-Length: 1464[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.126 [] wire -  << "X-GitHub-Request-Id: 82AB:3447E4:2143314:21AC502:66B42540[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.126 [] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:09.126 [] DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+[DEBUG] 2024-08-08 04:54:09.126 [] headers - << HTTP/1.1 200 OK
+[DEBUG] 2024-08-08 04:54:09.126 [] headers - << Date: Thu, 08 Aug 2024 01:54:09 GMT
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << Cache-Control: public, max-age=60, s-maxage=60
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << Vary: Accept,Accept-Encoding, Accept, X-Requested-With
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << ETag: W/"41ee8200e7eef958217ae2dfa3b75d2edf44e928324f310b013eac5731134610"
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << Last-Modified: Sat, 03 Aug 2024 18:11:31 GMT
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << X-GitHub-Media-Type: github.v3; format=json
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << x-github-api-version-selected: 2022-11-28
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << Access-Control-Allow-Origin: *
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << X-Frame-Options: deny
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << X-Content-Type-Options: nosniff
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << X-XSS-Protection: 0
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+[DEBUG] 2024-08-08 04:54:09.127 [] headers - << Content-Security-Policy: default-src 'none'
+[DEBUG] 2024-08-08 04:54:09.128 [] headers - << Content-Encoding: gzip
+[DEBUG] 2024-08-08 04:54:09.128 [] headers - << Server: github.com
+[DEBUG] 2024-08-08 04:54:09.128 [] headers - << X-RateLimit-Limit: 60
+[DEBUG] 2024-08-08 04:54:09.128 [] headers - << X-RateLimit-Remaining: 49
+[DEBUG] 2024-08-08 04:54:09.128 [] headers - << X-RateLimit-Reset: 1723082644
+[DEBUG] 2024-08-08 04:54:09.128 [] headers - << X-RateLimit-Resource: core
+[DEBUG] 2024-08-08 04:54:09.128 [] headers - << X-RateLimit-Used: 11
+[DEBUG] 2024-08-08 04:54:09.128 [] headers - << Accept-Ranges: bytes
+[DEBUG] 2024-08-08 04:54:09.128 [] headers - << Content-Length: 1464
+[DEBUG] 2024-08-08 04:54:09.128 [] headers - << X-GitHub-Request-Id: 82AB:3447E4:2143314:21AC502:66B42540
+[DEBUG] 2024-08-08 04:54:09.130 [] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2024-08-08 04:54:09.131 [] wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xb5]X[\r]o[0xd3]H[0x10][0xfd]+Q[0x10]:[0xa9][0xaa]7[0xb1][0x13];[0xa9]%[0xc4][0x1]-[0x7]:[0x1][0xe2][0xe8][0xe9]t[0xc7][0xa1]hmo[0x9d]Mm[0xaf][0xd9]][0xa7][0x84][0x88][0xff]~"
+[DEBUG] 2024-08-08 04:54:09.132 [] wire -  << "o[0xfd][0x91][0xf][0xc3][0xb5][0x80]]UM[0xa6][[0xfb][0xcd][0xec][0xcc][0xbc][0x99][0xd9][0xdd][0xe][0xb][0x99][0xc][0xfd][0xe1]R[0xeb]\[0xf9][0xa3][0x11][0xcd]9[0x89][0xb9]^[0x16][0x1][0x9]E:[0x92],[0x17]j[0xf4]nI[0xaf][0xf4][0x8b][0xb7][0xa3]w/[0x9e]<[0xbf]\\[0xbc][0xfe][0xed][0xe5][0xeb][0xb][0xfc]+aT15[0xb2][0xbd][0xb9][0xeb][0x8d]m[0xcf][0x1d][0x9e][0xe][0xa9]RL[0xab]E[0x98][0xa3][\n]"
+[DEBUG] 2024-08-08 04:54:09.132 [] wire -  << "[0x11][0xd0]E[0x9e][0x8][0x1a][0xb5][0xa0][0xab]E[0xf5][0xd3]&[0xd7][0xf0][0xdb][0xc7][0x19]M[0xd9]iB[0x3][0x96]|[0x81][0xae][0xa5]N[0x93][0x96][0xa6][0x3][0xa7][0xdc][0xee][0xe]M[0xe3][0xd1][0x9c]L[0x88]3v[0xa6][0xe3][0xf9]x[0x2]8[0x1e][\r][0xfd][0x9d][0x97][0xe0][0xa4]B/[0x85][0x1c][0xfa][0xdb]a"b[0x9e][0xc1][0xfb][0x15][0xb8]EC[0xcd]E[0xa6][0xde][0x7]B[0xa8]_[0x9b][0xda][0xf3][0xb3][0xb9]3wN[0x87][0x99][0x88][0xd8][0xc2] [\r]_[0x9d][0xbf][0xf2][0xde][0xa6]g[0xe3][0xd7][0xe7][0x17][0xd3]7[0x97][0xf1][0xe6][0xcd][0xf9][0xcb]G[0xc6][0xf7]k[0xaa][0xa9]l[0xfb][0xbe]\l[0x1c]T(&C[0x91]i[0x96][0xe9]2[0xbc]<[0x1b][0xd9][0xee][0xc4][0x9b]?^?[0x9a][0x2]![0x96]5F[0xa9][0xc6][0xf8][0xfc][0xb6][0xdc]0`jtl[0xfa]C[0xf7])[0x8c][0xe8][0x9e][0xdf][0xe9]D[0x9a][0xe7][0xed][0x97][0xf1][0xce][0x95]H[0x12]q[0x3][0xdc][0xf6]6[0x8e][0xd3][0xf2]V[0xd5][0xa3][0x1d][0xc8][0xe][0x90]gqw@[0x80]lGB/[0x19]|[0x8c][0xad][0x9b]<[0x89][0xb9][0xba]+[0xdb]o7[0xb5][0x4][0xd8][0xc2][0x89]J#[0xb6][0x6]R!\[0x92][0xb5][0xf3][0xbc]E[0xcb][0xdb]Ak[0x8][0x18]{[0x93][0xc1][0xce]m[0xc9][0xe2][0x12][0xbb][0x8]T(y^fY[0x17][0x87][0x1c][0x1][0x1]X[0xc8][0x98]f[0xfc]3[0xed][0xc][0xc] [0x5][0xbc][0xb2][0xec]t1[0xb0][0x4][0x0][0x10][#[0xd5];!U[0x8][0xdb]Q.[0xf9][0x9a][0x86][0x1b][0xe3]F[0xc9]B[0xc6][0xd7][0x88]Qw[0xf4][0x16][0x14][0xc0][0xf5]&g [0xdf]S[0xa1]M[0xc0][0xb8]f[0xb][0x1a][0xa5][0xa6]H\[0xd1]D[0xb1]/[0x87]u[0xe0][0x8f][0x8b][0xc5][0xf5][0xcd][0xf9][0x9b]g[0xbf][0xb1]KOM?[0xf2]wb[0x0]h[0xbc]0[0xd5][0xc] [0xad]2[0x84][0xcc][0x8a][0x99]^[0x80][0xf8])[0xd7]\-[0xf1]DJ[0x1][\r][0xcc]o>[0x1f]I[0x94][0xfd]Z[0xf1][0xe9]0[0x97][0xac].[0xf9][0xbb][0xa5]P2[0xaa][0xe1][0x7][0x8a][0xa7][0x86][0xa6][0xde]Y[0xe3][0xb9]5[0x9e]\[0xda]s[0xdf][0xb6][0xfd][0xb1][0xf3][0xf][0xa0][0xf3]"H[0xa0][0xeb][0x9f][0x9a][0xd8][0xe6][0xa9][0xba][0xca][0xfb][0xef]?[0x98][\r][0xc8][0x80]&[0xed][0xfa][0xfb][0xfd][0x8d][0xa9]~[0xbf]][0x84]?[0xf3][0xbc][0x13]l[0xfd]~[0x1b]6[0x10][0xd1][0x6][0xbb][0xf0]`[0xf0][0xd7][0x92][0xea]_[0xd4][0xe0][0xd9][0x92]f1[0x8b][0xfe][0xcd]N[0x6]O[0x8b]4[0x1f]p[0xd1]t[0xa7]@d<[0xa6]2[0xe4][0xd4][0xbf]aA[0x84][0x84]b2[0xa5][0x19][0x8d][0x99][0x1c]\I[0x91][0xe]\2'[0xe3][0x81][0x16][0x10][0xce][0x88]=[0x8]6[0x83]_#[0x96][0xb3],[0xa2]([0xaa][0x3][0x9e][\r][0x9a].}W3[0xca][0x8b]$A_[0x9e][0xce]wV[0x80]X$[0x97]b[0xc5]B[0x9d][0x88]4[0x10][0xd7]~[0xf5]U)[0xb6][0x89][0x8d]\q[0x8c][0xea]J[0x9c]vW[0xee][0xda]G[0xca][0xd5][0xf5][0x6][0xb5][0x87]![0xd1][0xa4][0xbf]R"3[0x11][0x97][0xba]Q[0xef][0x92]Z[0xb9]K&=[0xa8][0x1e][0x1f][0xa9]^[0x15][0x19][0xd7]~[0xf9]i[0x5]ps[0xed]k{\)u[0x9][0xa4][0x1e][0xb4]N[0xcf]vZA1[0x12][0xb][0x11]'[0x8c][0x84]r[0x93]kA4[0xcf][0xae]}[0xf3][0xb1]s[0xf8][0xa4][\n]"
+[DEBUG] 2024-08-08 04:54:09.132 [] wire -  << "5[0xfc]=[0x85][0xd4]9[0xd6][0xae]{[0xa4]=[0xdd][0xa8][0x8f][0x89]_~Z[0xe8][0xf8][0x19][0xe2].[0xa4][0xb5][0xaa][0xb4][0xcf][0x89]Q[0x89]`[0x9f][0x91]q/[0xba][0xa7]G[0xfe][0xa6]9[\r][0x97][0x8c][0xe4][0x82][0xfb][0xf8]m[0xdc][0xed][0x10][0xb7]Jm[0xb3][0xf1][0xee][0xdb][0x9d][0xdc][0xa2][0xd2][0x12][0xe2]S[0x9a][0xdc][0x93]b[0xe7][0x90][0xd9][0x1f][0x91][0xcf][0x9a][0x12][0x94][0xab]B2[0xbf][0xfa][0xda][0xe7][0x98]C[0x9c]Y[0xe5]hH[0x86][0xda][0x9d][0xb7][0xed][0xed]3[0xdb][0xe4]X[0xca]C)[0x94][0xb8][0xd2][0x4]q[0x6][0x9f]PP[0xfc]T[0x99][0x98][0xaf][0xa2] [0xac]S[0xcd]!0[0x82][0xac]$[0xb3]m[0xb]E|[0xcd][0xd9]MIt[0xb3]n[0xb7][0xd6];[0x1b][0xe8][0x1e][0x93][0xe0][0x8a]*[0xcd]$[0x82]AV4[0xbc][0x6][0xed]I[0x84]y[0xd4][0xf4]8[0xbf]^[0xb0][0x9a][0x5][0x98]|=[0xaf]Lv[0x88][\r][0xd3][0x8c][0x91][0xa5][0xe4]t[0xf7][0x9b][0xbb][0xaf][0x84][0xa8][0xc7][0x92])m[0xa1][0x0]!f[0x91][0xf8]G[0x93]25=\[0xe2][0xf6][0x11]4wv[0x98]2G[0xca]M%[0xb4][0x14][0xd8][0x92]RkM[0x13][0xe]g[0x88]]3[0xe8][0xd9][\n]"
+[DEBUG] 2024-08-08 04:54:09.133 [] wire -  << "[0xef][[0x8c]I)&$[0x92]'[0x5][0xe]"[0xca]/[0xff][0xb2][0x8c]_[0xae][0xb8]dV[0xb5]\9e[0x82]#MY3[0x8c][0xd0]Co[0xf2][0xbe]I[0xe0][0xca][0x9c][0xc6][0x0]g[0x89]F[0xc4][0xb2][0xf8][0x9e],[0xd9]3[0xda]tI[0x84][0xa4][0xc8]M[0x8b]*[0xf2][0x9a]@U[0xe]6[0xbd][0xb1][0x8f][0xbd][0xef][[0xa3]a1[0xcb]iJ[0x96][0x8c]&,[0xe3]E[0xea][0xef]$[0xb]SB[0xb3][0xe5][0xba]AN[0x90][0x91]=[0xb4]*o_[0xb0]A[0x87][0xb0][0x8][0x8b]4@[0xe9]h[0x4]k[0x85]s`[0xa5][0x19]<[0xac]g[0x92]R[0xea]c[0xf3]GT[0xfc]Zw[0xce]Ca[0xce][0xa8][0x98]L[0x9b][0xb9][0xe8][0x1e][0x8c]8[0xa2][0xe4][0xd7]F[0x1c][0xe6][0xdb]=h[0xff]n*[0x9a]@D"l1[0xb1]n*[0x93]r\[0xec]\[0xb2]g[0xc7][0xd3][0x92][0xc2][0xbd][0x8e][0xc9][0xc3][0xe5]G[0xd2][0x88]~#[0x1c]$[0xc6][0x94]8NU[0x10] [0xf5][0xd2][0xd2][0xbd]}[0xeb][0xf8][0xa1][0x99][0xd9][0x8c][0xca][0xf5][0xcc][0xdc]C[0xa7][0x98][0xed][0xb9][0x9]+pKa(i[0xc2]`[0x85][0x9][0xc7]a[0xb2][0xa2][0xc5][0x19]q[0xc0][0xc3]r[0x82][0xea]e[0xef][0xb3]}5[0x84][0xd6];[0xa7][0x8a][0x9a][0x92][0xe5]T[0xd1][0x3]%g[0xfb]r[0xf0]CSE{z[0xa8][0xa6][\n]"
+[DEBUG] 2024-08-08 04:54:09.133 [] wire -  << "[0x18]WM[0x15]=[0xa4]f9[0xd4][0xfe][0x99][0xa3]-[0xb2][0x1]s[0xd8]%[0xda][0x80]"[0x1b][0xcc]v&[0xeb]_[0x89]%[\r][0xf0][0xc1][0xd9]O[0x9c][0x8d]fe[0x5][0xb0][0xbd][0x99]g[0x5]Ele81aX[0xc5][0xd5][0x98]d[0x9f]BV^[0x91]X[0x1c][0xbd][0xd0]\}[0xe2][0xec][0x9][0x19]gft[0xe8][0xea][0x92][0xa3][0x7][0xfd]e[0x19]<<[0xa1][0xf7][0x80][0x9][0x6][0x99][0x9f][0x93][0x93][0xe7][0xd8]N}[0x12][0xc5][0x1d][0xe3][0xc9][0x89][0xff][0xdd]GG$@N%"
+[DEBUG] 2024-08-08 04:54:09.133 [] wire -  << "[0xc3]1[0x17][0xd9]e[0xae]0=gJ[0x8]*[0xcd][0xd1][0x8d]f[\n]"
+[DEBUG] 2024-08-08 04:54:09.133 [] wire -  << "&[0x94][0x97]H[0xa1](2[0x9c][0xfe][0x9d]/[0xff][0x1]v[0x11][0xab][0xa9]I[0x16][0x0][0x0]"
+[DEBUG] 2024-08-08 04:54:09.133 [] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[DEBUG] 2024-08-08 04:54:09.216 [] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@575c4fc7
+[DEBUG] 2024-08-08 04:54:09.216 [] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[DEBUG] 2024-08-08 04:54:09.286 [main] cache - Couldn't find template in cache for "http-response.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-08-08 04:54:09.287 [main] cache - TemplateLoader.findTemplateSource("http-response.ftl"): Found
+[DEBUG] 2024-08-08 04:54:09.287 [main] cache - Loading template for "http-response.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/hp/.m2/repository/io/qameta/allure/allure-attachments/2.28.1/allure-attachments-2.28.1.jar!/tpl/http-response.ftl"
+[INFO ] 2024-08-08 04:54:09.337 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mResponse status code: "200", status line: "HTTP/1.1 200 OK" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:09 AM[m 
+[INFO ] 2024-08-08 04:54:09.335 [main] ReportManager - Response status code: "200", status line: "HTTP/1.1 200 OK"
+[INFO ] 2024-08-08 04:54:09.344 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mActual response status code "200" matches the expected one "200". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:09 AM[m 
+[INFO ] 2024-08-08 04:54:09.343 [main] ReportManager - Actual response status code "200" matches the expected one "200".
+[INFO ] 2024-08-08 04:54:11.093 [] ReportManager - [38;2;0;96;168;1m[INFO][m [mEngine Update check done for the day. ￰ﾟﾑﾍ [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.092 [] ReportManager - Engine Update check done for the day. 👍
+[INFO ] 2024-08-08 04:54:11.095 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mHandle response; GET | Target Status Code: 200 | Response Time: 2244ms. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.095 [main] ReportManager - Handle response; GET | Target Status Code: 200 | Response Time: 2244ms.
+[INFO ] 2024-08-08 04:54:11.108 [main] ReportManager - {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}[38;2;0;96;168;1m[INFO][m [m{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}} [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.107 [main] ReportManager - {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+[INFO ] 2024-08-08 04:54:11.175 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response Time is less than or equal to "2000". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.175 [main] ReportManager - Assert that the API response Time is less than or equal to "2000".
+[INFO ] 2024-08-08 04:54:11.226 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response time; 2244. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.226 [main] ReportManager - Get response time; 2244.
+[DEBUG] 2024-08-08 04:54:11.228 [main] ReportManager - Expected "2000", and actual "2244"
+[INFO ] 2024-08-08 04:54:11.231 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "2000", and actual "2244" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.231 [main] ReportManager - Expected "2000", and actual "2244"
+[INFO ] 2024-08-08 04:54:11.236 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion failed; expected 2000, but found 2244 [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.235 [main] ReportManager - Assertion failed; expected 2000, but found 2244
+[INFO ] 2024-08-08 04:54:11.265 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Current Method log: valid_getTheUserList' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.264 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: valid_getTheUserList'
+[INFO ] 2024-08-08 04:54:11.268 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:11.268 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:11.268 [main] ReportManager -                     Finished Execution of Test Method: 'com.ReqRes.API.Automation.E01_Get_fetchUserList.valid_getTheUserList'                    
+[INFO ] 2024-08-08 04:54:11.268 [main] ReportManager -                                       Test Description: 'Validate for fetching the use list by GET method'                                      
+[INFO ] 2024-08-08 04:54:11.268 [main] ReportManager -                                                               Test Status: 'Failed'                                                              
+[INFO ] 2024-08-08 04:54:11.269 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:11.269 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.268 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                    Finished Execution of Test Method: 'com.ReqRes.API.Automation.E01_Get_fetchUserList.valid_getTheUserList'                    
+                                      Test Description: 'Validate for fetching the use list by GET method'                                      
+                                                              Test Status: 'Failed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:11.342 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:11.343 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:11.343 [main] ReportManager -                                                 Starting execution of setup configuration method                                                
+[INFO ] 2024-08-08 04:54:11.343 [main] ReportManager -                                              'com.ReqRes.API.Automation.E01_Get_fetchUserList.setup'                                             
+[INFO ] 2024-08-08 04:54:11.343 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:11.343 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.342 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of setup configuration method                                                
+                                             'com.ReqRes.API.Automation.E01_Get_fetchUserList.setup'                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:11.361 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:11.361 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:11.361 [main] ReportManager -                                         Starting Execution: '2 out of 6' test cases in the current suite                                        
+[INFO ] 2024-08-08 04:54:11.361 [main] ReportManager -                               Test Method: 'com.ReqRes.API.Automation.E01_Get_fetchUserList.valid_fetchTheUserList'                              
+[INFO ] 2024-08-08 04:54:11.361 [main] ReportManager -                                      Test Description: 'Validate fetching user list on page 2 by GET method'                                     
+[INFO ] 2024-08-08 04:54:11.361 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:11.362 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.361 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 6' test cases in the current suite                                        
+                              Test Method: 'com.ReqRes.API.Automation.E01_Get_fetchUserList.valid_fetchTheUserList'                              
+                                     Test Description: 'Validate fetching user list on page 2 by GET method'                                     
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:11.477 [main] ReportManager - Request method:	GET[38;2;0;96;168;1m[INFO][m [mRequest method:	GET [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.477 [main] ReportManager - Request method:	GET
+[INFO ] 2024-08-08 04:54:11.478 [main] ReportManager - Request URI:	https://reqres.in/api/users?page=2[38;2;0;96;168;1m[INFO][m [mRequest URI:	https://reqres.in/api/users?page=2 [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.477 [main] ReportManager - Request URI:	https://reqres.in/api/users?page=2
+[INFO ] 2024-08-08 04:54:11.478 [main] ReportManager - Proxy:			<none>[38;2;0;96;168;1m[INFO][m [mProxy:			<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.478 [main] ReportManager - Proxy:			<none>
+[INFO ] 2024-08-08 04:54:11.478 [main] ReportManager - Request params:	<none>[38;2;0;96;168;1m[INFO][m [mRequest params:	<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.478 [main] ReportManager - Request params:	<none>
+[INFO ] 2024-08-08 04:54:11.478 [main] ReportManager - Query params:	<none>[38;2;0;96;168;1m[INFO][m [mQuery params:	<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.478 [main] ReportManager - Query params:	<none>
+[INFO ] 2024-08-08 04:54:11.478 [main] ReportManager - Form params:	<none>[38;2;0;96;168;1m[INFO][m [mForm params:	<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.478 [main] ReportManager - Form params:	<none>
+[INFO ] 2024-08-08 04:54:11.480 [main] ReportManager - Path params:	<none>[38;2;0;96;168;1m[INFO][m [mPath params:	<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.479 [main] ReportManager - Path params:	<none>
+[INFO ] 2024-08-08 04:54:11.480 [main] ReportManager - Headers:		Accept=*/*[38;2;0;96;168;1m[INFO][m [mHeaders:		Accept=*/* [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.480 [main] ReportManager - Headers:		Accept=*/*
+[INFO ] 2024-08-08 04:54:11.480 [main] ReportManager - Cookies:		<none>[38;2;0;96;168;1m[INFO][m [mCookies:		<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.480 [main] ReportManager - Cookies:		<none>
+[INFO ] 2024-08-08 04:54:11.480 [main] ReportManager - Multiparts:		<none>[38;2;0;96;168;1m[INFO][m [mMultiparts:		<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.480 [main] ReportManager - Multiparts:		<none>
+[INFO ] 2024-08-08 04:54:11.480 [main] ReportManager - Body:			<none>[38;2;0;96;168;1m[INFO][m [mBody:			<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.480 [main] ReportManager - Body:			<none>
+[DEBUG] 2024-08-08 04:54:11.568 [main] BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+[DEBUG] 2024-08-08 04:54:11.569 [main] DefaultClientConnectionOperator - Connecting to reqres.in:443
+[DEBUG] 2024-08-08 04:54:11.681 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2024-08-08 04:54:11.681 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2024-08-08 04:54:11.681 [main] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2024-08-08 04:54:11.682 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2024-08-08 04:54:11.682 [main] DefaultClientConnection - Sending request: GET /api/users?page=2 HTTP/1.1
+[DEBUG] 2024-08-08 04:54:11.682 [main] wire -  >> "GET /api/users?page=2 HTTP/1.1[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.682 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.682 [main] wire -  >> "Host: reqres.in[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.682 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.682 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.682 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.682 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.683 [main] headers - >> GET /api/users?page=2 HTTP/1.1
+[DEBUG] 2024-08-08 04:54:11.683 [main] headers - >> Accept: */*
+[DEBUG] 2024-08-08 04:54:11.683 [main] headers - >> Host: reqres.in
+[DEBUG] 2024-08-08 04:54:11.683 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2024-08-08 04:54:11.683 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)
+[DEBUG] 2024-08-08 04:54:11.683 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2024-08-08 04:54:11.757 [main] wire -  << "HTTP/1.1 200 OK[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.757 [main] wire -  << "Date: Thu, 08 Aug 2024 01:54:11 GMT[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.758 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.758 [main] wire -  << "Transfer-Encoding: chunked[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.758 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.758 [main] wire -  << "Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1723078070&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=S7VorAvOJjJTbYKbRV5lFu4%2FEGnENisvbUR351nrc3o%3D"}]}[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.758 [main] wire -  << "Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1723078070&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=S7VorAvOJjJTbYKbRV5lFu4%2FEGnENisvbUR351nrc3o%3D[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.758 [main] wire -  << "Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "Etag: W/"406-ut0vzoCuidvyMf8arZpMpJ6ZRDw"[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "Cache-Control: max-age=14400[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "CF-Cache-Status: HIT[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "Age: 3981[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "Vary: Accept-Encoding[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "Server: cloudflare[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "CF-RAY: 8afbe0885fcd0d9f-MRS[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "Content-Encoding: gzip[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.759 [main] DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+[DEBUG] 2024-08-08 04:54:11.759 [main] headers - << HTTP/1.1 200 OK
+[DEBUG] 2024-08-08 04:54:11.759 [main] headers - << Date: Thu, 08 Aug 2024 01:54:11 GMT
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Transfer-Encoding: chunked
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Connection: keep-alive
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1723078070&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=S7VorAvOJjJTbYKbRV5lFu4%2FEGnENisvbUR351nrc3o%3D"}]}
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1723078070&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=S7VorAvOJjJTbYKbRV5lFu4%2FEGnENisvbUR351nrc3o%3D
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << X-Powered-By: Express
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Access-Control-Allow-Origin: *
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Etag: W/"406-ut0vzoCuidvyMf8arZpMpJ6ZRDw"
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Cache-Control: max-age=14400
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << CF-Cache-Status: HIT
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Age: 3981
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Vary: Accept-Encoding
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << Server: cloudflare
+[DEBUG] 2024-08-08 04:54:11.760 [main] headers - << CF-RAY: 8afbe0885fcd0d9f-MRS
+[DEBUG] 2024-08-08 04:54:11.761 [main] headers - << Content-Encoding: gzip
+[DEBUG] 2024-08-08 04:54:11.762 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2024-08-08 04:54:11.762 [main] wire -  << "17b[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.762 [main] wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0x8d][0xd2][0xcd]n[0xa3]0[0x14][0x86][0xe1][q[0xcf]l](Y[0xf4][0xc7][0xab][0xaa][0xd2][0xcc]t[0xd1]n[0xa2][0xd9]U[0xa3][0xea][0x4][0xe][0xe0][0xd6][0xd8][0xee][0xb1]i[0xa6][0x8a]r[0xef]UM4T[0x88]D[0xec][0x0][0xbf][0x1f]z[0x84][0xd8][0x81][0xc7][0x86]@[0xad]$x[0xe2][0xe7][0xe1][0xe6]RBt[0x11][\r][0xa8]bu[0xb8]L'!u[0x15]F[0x4][0xf5][0xb4][0x3]][0x81][0xba][0x92]@[0x1d]j[0x3][\n]"
+[DEBUG] 2024-08-08 04:54:11.762 [main] wire -  << ":][0xb6]H&3[0xb8][\r][0xce][0xde]2[0xbd]1[0x85]L[[0x90]Pk[0xe][0xf1][0xd9]bG[0xa0][0xe0]q[0xe8]@[0x82][0xc1][0xf1][0xe9]CZ[0x81][0x4]|[0xc7][0x88][0xc][\n]"
+[DEBUG] 2024-08-08 04:54:11.762 [main] wire -  << "[0xda][0x18]}Py[0xfe][0xff]E[0xb9][0xee][0x9a][0xbc][0xc6][0x92]B~u[0xae];l({[0xf1][\r][0xec][0xe5]@[0xb9][0x1e])F[0xdb]*[0xe0]GV[0x13]7[0xfd]I[0xcc][0xc3]PN0[0xbf][0xe][0xbb][0xa5][0x9c][0xeb][0x19][0xce][0xcd][0xc8][0x89]n[0xa3]1duo_[0xe9]8[0xe5]O[0xaa][0xa6][0x92][0xaf][0xcd]R[0xc6][0xcd][0xc][0xa3][0xb8][0x18][0x1d][0x9b][0xf]v6[0xab]5[0x99]*[0x1c]w[0xdc]}USF[0xda],u[0x14][0x17]s[0x90]b[0x84]4[0xe4][0xb8][0xa1][0x8c][0xaa]-[0xf2])[0xca][0xef][0xd4]M,?[0x87][0xd5]bL1[0x87]Y[0x8d][0x18][0xc6][0xb2]%[0x93][0xb5]nK[0xc6][0x1c][0xb7][0xac]S6[0xb1][0xdc][0xa7][0xd1]b[0xca][0xea];[0xe5][0xaf][0x84][0xd0]{[0xef]8[0x82][0xda]A[0xcf]fv[0xfd][0xe3][0xd0][0x9c][0xb7][0x84][0x95][0xb6][\r]H[0x88][0xf4]/[0xa6][0xff]E[0xbc][0x12]y[0xb1][0xa6][0xb7]5[0x5]Q3[0x91][0x14][0xa5][0xb3][0x91][0xf5][0xa6][0x8f][0xda][0xd9] [0xa2]K[0x9f]J[0x4][0xe2]wbQ[0xba][0x10][0x83]@&[0x81][0xde]3[0x95][0x1a]#Ug[0xb0][0xdf][0x2][0xf6][0x16][0x88]W[0x6][0x4][0x0][0x0]"
+[DEBUG] 2024-08-08 04:54:11.762 [main] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.762 [main] wire -  << "0[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.762 [main] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:11.762 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2024-08-08 04:54:11.846 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response Time is less than or equal to "2000". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.846 [main] ReportManager - Assert that the API response Time is less than or equal to "2000".
+[INFO ] 2024-08-08 04:54:11.848 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response time; 279. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.848 [main] ReportManager - Get response time; 279.
+[DEBUG] 2024-08-08 04:54:11.849 [main] ReportManager - Expected "2000", and actual "279"
+[INFO ] 2024-08-08 04:54:11.850 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "2000", and actual "279" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.849 [main] ReportManager - Expected "2000", and actual "279"
+[INFO ] 2024-08-08 04:54:11.851 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.851 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:11.857 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response Body contains "data". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.857 [main] ReportManager - Assert that the API response Body contains "data".
+[DEBUG] 2024-08-08 04:54:11.858 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6915351c
+[DEBUG] 2024-08-08 04:54:11.858 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[DEBUG] 2024-08-08 04:54:11.859 [main] ReportManager - Expected "data", and actual "{"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}"
+[INFO ] 2024-08-08 04:54:11.860 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected and Actual values are attached. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.860 [main] ReportManager - Expected and Actual values are attached.
+[INFO ] 2024-08-08 04:54:11.864 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'Validation Test Data - Expected Value' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.863 [main] ReportManager - Successfully created attachment 'Validation Test Data - Expected Value'
+[INFO ] 2024-08-08 04:54:11.866 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'Validation Test Data - Actual Value' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.866 [main] ReportManager - Successfully created attachment 'Validation Test Data - Actual Value'
+[INFO ] 2024-08-08 04:54:11.867 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "data", and actual "{"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.867 [main] ReportManager - Expected "data", and actual "{"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}"
+[INFO ] 2024-08-08 04:54:11.868 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.868 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:11.869 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mThe Response body for fetching the user list is Not Null [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.869 [main] ReportManager - The Response body for fetching the user list is Not Null
+[INFO ] 2024-08-08 04:54:11.872 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response extracted value from the JSON path "page" is equal to "2". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:11 AM[m 
+[INFO ] 2024-08-08 04:54:11.872 [main] ReportManager - Assert that the API response extracted value from the JSON path "page" is equal to "2".
+[DEBUG] 2024-08-08 04:54:12.065 [main] CompiledPath - Evaluating path: $['page']
+[INFO ] 2024-08-08 04:54:12.077 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response jsonvalue; page. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.077 [main] ReportManager - Get response jsonvalue; page.
+[DEBUG] 2024-08-08 04:54:12.078 [main] ReportManager - Expected "2", and actual "2"
+[INFO ] 2024-08-08 04:54:12.303 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "2", and actual "2" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.302 [main] ReportManager - Expected "2", and actual "2"
+[INFO ] 2024-08-08 04:54:12.308 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.307 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:12.314 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response extracted value from the JSON path "total" is equal to "12". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.314 [main] ReportManager - Assert that the API response extracted value from the JSON path "total" is equal to "12".
+[DEBUG] 2024-08-08 04:54:12.322 [main] CompiledPath - Evaluating path: $['total']
+[INFO ] 2024-08-08 04:54:12.326 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response jsonvalue; total. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.325 [main] ReportManager - Get response jsonvalue; total.
+[DEBUG] 2024-08-08 04:54:12.327 [main] ReportManager - Expected "12", and actual "12"
+[INFO ] 2024-08-08 04:54:12.328 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "12", and actual "12" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.328 [main] ReportManager - Expected "12", and actual "12"
+[INFO ] 2024-08-08 04:54:12.330 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.330 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:12.344 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Current Method log: valid_fetchTheUserList' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.344 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: valid_fetchTheUserList'
+[INFO ] 2024-08-08 04:54:12.344 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:12.344 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:12.344 [main] ReportManager -                    Finished Execution of Test Method: 'com.ReqRes.API.Automation.E01_Get_fetchUserList.valid_fetchTheUserList'                   
+[INFO ] 2024-08-08 04:54:12.344 [main] ReportManager -                                      Test Description: 'Validate fetching user list on page 2 by GET method'                                     
+[INFO ] 2024-08-08 04:54:12.344 [main] ReportManager -                                                               Test Status: 'Passed'                                                              
+[INFO ] 2024-08-08 04:54:12.345 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:12.345 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.344 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                   Finished Execution of Test Method: 'com.ReqRes.API.Automation.E01_Get_fetchUserList.valid_fetchTheUserList'                   
+                                     Test Description: 'Validate fetching user list on page 2 by GET method'                                     
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:12.364 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:12.364 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:12.364 [main] ReportManager -                                            Starting execution of engine tear down configuration method                                           
+[INFO ] 2024-08-08 04:54:12.364 [main] ReportManager -                                         'com.shaft.listeners.internal.ConfigurationHelper.engineTearDown'                                        
+[INFO ] 2024-08-08 04:54:12.364 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:12.364 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.364 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine tear down configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTearDown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:12.381 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Execution log' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.381 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2024-08-08 04:54:12.391 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Execution log: 20240808-045412' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.391 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log: 20240808-045412'
+[INFO ] 2024-08-08 04:54:12.408 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'HTML - Checkpoints Report' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.407 [main] ReportManager - Successfully created attachment 'HTML - Checkpoints Report'
+[INFO ] 2024-08-08 04:54:12.443 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mIssue Summary: Total Issues = 1, New issues for Failed Tests = 1, Open issues for Passed Tests = 0, Open issues for Failed Tests = 0. Kindly check the attached Issue details. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.443 [main] ReportManager - Issue Summary: Total Issues = 1, New issues for Failed Tests = 1, Open issues for Passed Tests = 0, Open issues for Failed Tests = 0. Kindly check the attached Issue details.
+[INFO ] 2024-08-08 04:54:12.456 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Issues log CSV: 20240808-045412' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.456 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Issues log CSV: 20240808-045412'
+[INFO ] 2024-08-08 04:54:12.480 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Current Method log: engineTearDown' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.479 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: engineTearDown'
+[INFO ] 2024-08-08 04:54:12.511 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:12.514 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:12.519 [main] ReportManager -                                              Starting execution of suite setup configuration method                                             
+[INFO ] 2024-08-08 04:54:12.520 [main] ReportManager -                                           'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+[INFO ] 2024-08-08 04:54:12.521 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:12.522 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.511 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[DEBUG] 2024-08-08 04:54:12.540 [Finalizer] DefaultClientConnection - Connection 0.0.0.0:64987<->140.82.121.5:443 closed
+[INFO ] 2024-08-08 04:54:12.543 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mInitializing Important Links... [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.543 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-08-08 04:54:12.578 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mInitializing Properties... [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.578 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-08-08 04:54:12.629 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:12.629 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:12.629 [main] ReportManager -                                                 Starting execution of setup configuration method                                                
+[INFO ] 2024-08-08 04:54:12.629 [main] ReportManager -                                               'com.ReqRes.API.Automation.E02_Get_fetchUserID.setup'                                              
+[INFO ] 2024-08-08 04:54:12.629 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:12.629 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.628 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of setup configuration method                                                
+                                              'com.ReqRes.API.Automation.E02_Get_fetchUserID.setup'                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:12.640 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:12.641 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:12.641 [main] ReportManager -                                         Starting Execution: '3 out of 6' test cases in the current suite                                        
+[INFO ] 2024-08-08 04:54:12.641 [main] ReportManager -                             Test Method: 'com.ReqRes.API.Automation.E02_Get_fetchUserID.valid_Get_fetchUserInfoByID'                            
+[INFO ] 2024-08-08 04:54:12.641 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:12.641 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.640 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 6' test cases in the current suite                                        
+                            Test Method: 'com.ReqRes.API.Automation.E02_Get_fetchUserID.valid_Get_fetchUserInfoByID'                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:12.651 [main] ReportManager - Request method:	GET[38;2;0;96;168;1m[INFO][m [mRequest method:	GET [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.651 [main] ReportManager - Request method:	GET
+[INFO ] 2024-08-08 04:54:12.652 [main] ReportManager - Request URI:	https://reqres.in/api/users/1[38;2;0;96;168;1m[INFO][m [mRequest URI:	https://reqres.in/api/users/1 [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.652 [main] ReportManager - Request URI:	https://reqres.in/api/users/1
+[INFO ] 2024-08-08 04:54:12.652 [main] ReportManager - Proxy:			<none>[38;2;0;96;168;1m[INFO][m [mProxy:			<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.652 [main] ReportManager - Proxy:			<none>
+[INFO ] 2024-08-08 04:54:12.652 [main] ReportManager - Request params:	<none>[38;2;0;96;168;1m[INFO][m [mRequest params:	<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.652 [main] ReportManager - Request params:	<none>
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Query params:	<none>[38;2;0;96;168;1m[INFO][m [mQuery params:	<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.652 [main] ReportManager - Query params:	<none>
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Form params:	<none>[38;2;0;96;168;1m[INFO][m [mForm params:	<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Form params:	<none>
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Path params:	<none>[38;2;0;96;168;1m[INFO][m [mPath params:	<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Path params:	<none>
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Headers:		Accept=*/*[38;2;0;96;168;1m[INFO][m [mHeaders:		Accept=*/* [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Headers:		Accept=*/*
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Cookies:		<none>[38;2;0;96;168;1m[INFO][m [mCookies:		<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Cookies:		<none>
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Multiparts:		<none>[38;2;0;96;168;1m[INFO][m [mMultiparts:		<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Multiparts:		<none>
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Body:			<none>[38;2;0;96;168;1m[INFO][m [mBody:			<none> [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.653 [main] ReportManager - Body:			<none>
+[DEBUG] 2024-08-08 04:54:12.662 [main] BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+[DEBUG] 2024-08-08 04:54:12.663 [main] DefaultClientConnectionOperator - Connecting to reqres.in:443
+[DEBUG] 2024-08-08 04:54:12.799 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2024-08-08 04:54:12.800 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2024-08-08 04:54:12.800 [main] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2024-08-08 04:54:12.800 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2024-08-08 04:54:12.800 [main] DefaultClientConnection - Sending request: GET /api/users/1 HTTP/1.1
+[DEBUG] 2024-08-08 04:54:12.800 [main] wire -  >> "GET /api/users/1 HTTP/1.1[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.801 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.801 [main] wire -  >> "Host: reqres.in[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.801 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.801 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.801 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.801 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.802 [main] headers - >> GET /api/users/1 HTTP/1.1
+[DEBUG] 2024-08-08 04:54:12.802 [main] headers - >> Accept: */*
+[DEBUG] 2024-08-08 04:54:12.802 [main] headers - >> Host: reqres.in
+[DEBUG] 2024-08-08 04:54:12.802 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2024-08-08 04:54:12.802 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)
+[DEBUG] 2024-08-08 04:54:12.802 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2024-08-08 04:54:12.864 [main] wire -  << "HTTP/1.1 200 OK[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.864 [main] wire -  << "Date: Thu, 08 Aug 2024 01:54:13 GMT[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.864 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.864 [main] wire -  << "Transfer-Encoding: chunked[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.865 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.865 [main] wire -  << "Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1709583230&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=6M8TiCqY32fEzvPsn10Z3Us3gzZ1p5VjeO83Zu0kvek%3D"}]}[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.865 [main] wire -  << "Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1709583230&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=6M8TiCqY32fEzvPsn10Z3Us3gzZ1p5VjeO83Zu0kvek%3D[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.866 [main] wire -  << "Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.866 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.866 [main] wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.866 [main] wire -  << "Etag: W/"118-P3iKcVpIgCj9HqYeOOrGLX8qJVc"[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.866 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.866 [main] wire -  << "Cache-Control: max-age=14400[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.866 [main] wire -  << "CF-Cache-Status: HIT[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.867 [main] wire -  << "Age: 594[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.867 [main] wire -  << "Vary: Accept-Encoding[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.867 [main] wire -  << "Server: cloudflare[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.867 [main] wire -  << "CF-RAY: 8afbe08f5c2212b5-MRS[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.867 [main] wire -  << "Content-Encoding: gzip[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.867 [main] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.869 [main] DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+[DEBUG] 2024-08-08 04:54:12.869 [main] headers - << HTTP/1.1 200 OK
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Date: Thu, 08 Aug 2024 01:54:13 GMT
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Transfer-Encoding: chunked
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Connection: keep-alive
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1709583230&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=6M8TiCqY32fEzvPsn10Z3Us3gzZ1p5VjeO83Zu0kvek%3D"}]}
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1709583230&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=6M8TiCqY32fEzvPsn10Z3Us3gzZ1p5VjeO83Zu0kvek%3D
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << X-Powered-By: Express
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Access-Control-Allow-Origin: *
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Etag: W/"118-P3iKcVpIgCj9HqYeOOrGLX8qJVc"
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Cache-Control: max-age=14400
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << CF-Cache-Status: HIT
+[DEBUG] 2024-08-08 04:54:12.870 [main] headers - << Age: 594
+[DEBUG] 2024-08-08 04:54:12.871 [main] headers - << Vary: Accept-Encoding
+[DEBUG] 2024-08-08 04:54:12.871 [main] headers - << Server: cloudflare
+[DEBUG] 2024-08-08 04:54:12.871 [main] headers - << CF-RAY: 8afbe08f5c2212b5-MRS
+[DEBUG] 2024-08-08 04:54:12.871 [main] headers - << Content-Encoding: gzip
+[DEBUG] 2024-08-08 04:54:12.872 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2024-08-08 04:54:12.872 [main] wire -  << "d1[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.872 [main] wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3]m[0x8e][0xc1]N[0xc3]0[0x10][0x5][0xc5]<[0xae]n[0xac]^}B\[0xb8]W[0xdc][0xab]m[0xbc]q[0xc]I[0xec][0xee]nJ[0xa5]*[0xff]^[0x15]![0xb8]p}[0x9a][0x19][0xbd][0x1b][0x12][0x19]![0xde]P[0x12][0xe2][0xde][0x83]g*[0x13]"2W[0xc9][0xdc][0x9d][0xa6][0xd5][0xc6][0x17][0xe1][0xb3][0xb0]ve[0x81][0xc7]PD[0xed][0xb8][0xd0][0xcc][0x88]x[0xfb][0xa6][0xe0]1[0xd1][0xdf][0xf8][0xfa]p[0xe0]A[0x17]2[0x12]D[0x8c]fMc[0x8][0xbf][0x99]P[0xe6][0x1c][0x6][0xea]Y[0xc3]~Wf[0xca][0xdc]}[0xb4][0x8c][0xcd]C[0xd7][0xd6][0xaa][0xd8][0xe3][0xd0]*[0xd3][0xbf][0xee][0xf3][0xf][0xb3][0x1b][0x99]RY2<[0x8c][0xaf][0x86][0x88][0xf7][0xea]>[0x99][0x9b];[0xf0][0xf9][0xc0][0xea][0x6]a[0xf6][0xae][0xaf][0x8b]I9[0xad]V[0xea][0xa2][0xce][0xea][0x17]IR[0xa7],[0x17][0x16][0xd7]W5u$[0xec][0xa8]5[0xe1][0xbe][0x90]qz[0xc2][0xb6][0xdd][0x1][0x94]J[0xbd][0xbc][0x18][0x1][0x0][0x0]"
+[DEBUG] 2024-08-08 04:54:12.872 [main] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.873 [main] wire -  << "0[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.873 [main] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:12.873 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2024-08-08 04:54:12.882 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response Time is less than or equal to "2000". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.882 [main] ReportManager - Assert that the API response Time is less than or equal to "2000".
+[INFO ] 2024-08-08 04:54:12.886 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response time; 219. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.886 [main] ReportManager - Get response time; 219.
+[DEBUG] 2024-08-08 04:54:12.887 [main] ReportManager - Expected "2000", and actual "219"
+[INFO ] 2024-08-08 04:54:12.888 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "2000", and actual "219" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.888 [main] ReportManager - Expected "2000", and actual "219"
+[INFO ] 2024-08-08 04:54:12.889 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.889 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:12.891 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mResponse time is within the expected limit. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.891 [main] ReportManager - Response time is within the expected limit.
+[INFO ] 2024-08-08 04:54:12.897 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response schema matches that in this file "src/test/resources/testDataFiles/userInfo.json". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:12 AM[m 
+[INFO ] 2024-08-08 04:54:12.897 [main] ReportManager - Assert that the API response schema matches that in this file "src/test/resources/testDataFiles/userInfo.json".
+[DEBUG] 2024-08-08 04:54:14.271 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@27df4dcb
+[DEBUG] 2024-08-08 04:54:14.271 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[INFO ] 2024-08-08 04:54:14.602 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion "ValidateResponseFileSchema" PASSED. Expected "Response data should match the JSON File in this path 'D:\Extend_API_AutomationProject\src\test\resources\testDataFiles\userInfo.json'" and Actual "TRUE". Comparison Type "EQUALS". Validation Type "POSITIVE". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.602 [main] ReportManager - Assertion "ValidateResponseFileSchema" PASSED. Expected "Response data should match the JSON File in this path 'D:\Extend_API_AutomationProject\src\test\resources\testDataFiles\userInfo.json'" and Actual "TRUE". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2024-08-08 04:54:14.604 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'Validation Test Data - Expected JSON Value' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.604 [main] ReportManager - Successfully created attachment 'Validation Test Data - Expected JSON Value'
+[INFO ] 2024-08-08 04:54:14.607 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'Validation Test Data - Actual JSON Value' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.606 [main] ReportManager - Successfully created attachment 'Validation Test Data - Actual JSON Value'
+[INFO ] 2024-08-08 04:54:14.609 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mResponse matches the expected JSON schema. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.608 [main] ReportManager - Response matches the expected JSON schema.
+[INFO ] 2024-08-08 04:54:14.610 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response Body contains "data". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.610 [main] ReportManager - Assert that the API response Body contains "data".
+[DEBUG] 2024-08-08 04:54:14.612 [main] ReportManager - Expected "data", and actual "{"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}"
+[INFO ] 2024-08-08 04:54:14.612 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "data", and actual "{"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.612 [main] ReportManager - Expected "data", and actual "{"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}"
+[INFO ] 2024-08-08 04:54:14.612 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.612 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:14.613 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mResponse contains expected fields 'data' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.613 [main] ReportManager - Response contains expected fields 'data'
+[INFO ] 2024-08-08 04:54:14.615 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response Body contains "support". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.615 [main] ReportManager - Assert that the API response Body contains "support".
+[DEBUG] 2024-08-08 04:54:14.617 [main] ReportManager - Expected "support", and actual "{"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}"
+[INFO ] 2024-08-08 04:54:14.617 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "support", and actual "{"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.617 [main] ReportManager - Expected "support", and actual "{"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}"
+[INFO ] 2024-08-08 04:54:14.618 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.618 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:14.619 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mThe Response body for fetching the user list is Not Null [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.619 [main] ReportManager - The Response body for fetching the user list is Not Null
+[INFO ] 2024-08-08 04:54:14.626 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response extracted value from the JSON path "data.id" is equal to "1". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.624 [main] ReportManager - Assert that the API response extracted value from the JSON path "data.id" is equal to "1".
+[DEBUG] 2024-08-08 04:54:14.628 [main] CompiledPath - Evaluating path: $['data']['id']
+[INFO ] 2024-08-08 04:54:14.629 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response jsonvalue; data.id. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.629 [main] ReportManager - Get response jsonvalue; data.id.
+[DEBUG] 2024-08-08 04:54:14.630 [main] ReportManager - Expected "1", and actual "1"
+[INFO ] 2024-08-08 04:54:14.630 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "1", and actual "1" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.630 [main] ReportManager - Expected "1", and actual "1"
+[INFO ] 2024-08-08 04:54:14.631 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.631 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:14.632 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mUser ID in response matches the requested ID. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.632 [main] ReportManager - User ID in response matches the requested ID.
+[INFO ] 2024-08-08 04:54:14.665 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response extracted value from the JSON path "data.email" is equal to "george.bluth@reqres.in". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.665 [main] ReportManager - Assert that the API response extracted value from the JSON path "data.email" is equal to "george.bluth@reqres.in".
+[DEBUG] 2024-08-08 04:54:14.667 [main] CompiledPath - Evaluating path: $['data']['email']
+[INFO ] 2024-08-08 04:54:14.669 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response jsonvalue; data.email. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.669 [main] ReportManager - Get response jsonvalue; data.email.
+[DEBUG] 2024-08-08 04:54:14.670 [main] ReportManager - Expected "george.bluth@reqres.in", and actual "george.bluth@reqres.in"
+[INFO ] 2024-08-08 04:54:14.671 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "george.bluth@reqres.in", and actual "george.bluth@reqres.in" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.671 [main] ReportManager - Expected "george.bluth@reqres.in", and actual "george.bluth@reqres.in"
+[INFO ] 2024-08-08 04:54:14.671 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.671 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:14.700 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response extracted value from the JSON path "data.last_name" is equal to "Bluth". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.700 [main] ReportManager - Assert that the API response extracted value from the JSON path "data.last_name" is equal to "Bluth".
+[DEBUG] 2024-08-08 04:54:14.702 [main] CompiledPath - Evaluating path: $['data']['last_name']
+[INFO ] 2024-08-08 04:54:14.703 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response jsonvalue; data.last_name. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.703 [main] ReportManager - Get response jsonvalue; data.last_name.
+[DEBUG] 2024-08-08 04:54:14.704 [main] ReportManager - Expected "Bluth", and actual "Bluth"
+[INFO ] 2024-08-08 04:54:14.704 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "Bluth", and actual "Bluth" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.704 [main] ReportManager - Expected "Bluth", and actual "Bluth"
+[INFO ] 2024-08-08 04:54:14.705 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.705 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:14.731 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response extracted value from the JSON path "data.first_name" is equal to "George". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.731 [main] ReportManager - Assert that the API response extracted value from the JSON path "data.first_name" is equal to "George".
+[DEBUG] 2024-08-08 04:54:14.733 [main] CompiledPath - Evaluating path: $['data']['first_name']
+[INFO ] 2024-08-08 04:54:14.733 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response jsonvalue; data.first_name. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.733 [main] ReportManager - Get response jsonvalue; data.first_name.
+[DEBUG] 2024-08-08 04:54:14.734 [main] ReportManager - Expected "George", and actual "George"
+[INFO ] 2024-08-08 04:54:14.734 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "George", and actual "George" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.734 [main] ReportManager - Expected "George", and actual "George"
+[INFO ] 2024-08-08 04:54:14.735 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.735 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:14.739 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Current Method log: valid_Get_fetchUserInfoByID' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.739 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: valid_Get_fetchUserInfoByID'
+[INFO ] 2024-08-08 04:54:14.739 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:14.739 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:14.739 [main] ReportManager -                  Finished Execution of Test Method: 'com.ReqRes.API.Automation.E02_Get_fetchUserID.valid_Get_fetchUserInfoByID'                 
+[INFO ] 2024-08-08 04:54:14.739 [main] ReportManager -                                                               Test Status: 'Passed'                                                              
+[INFO ] 2024-08-08 04:54:14.739 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:14.739 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.739 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                 Finished Execution of Test Method: 'com.ReqRes.API.Automation.E02_Get_fetchUserID.valid_Get_fetchUserInfoByID'                 
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:14.746 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:14.746 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:14.746 [main] ReportManager -                                            Starting execution of engine tear down configuration method                                           
+[INFO ] 2024-08-08 04:54:14.746 [main] ReportManager -                                         'com.shaft.listeners.internal.ConfigurationHelper.engineTearDown'                                        
+[INFO ] 2024-08-08 04:54:14.746 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:14.746 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.746 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine tear down configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTearDown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:14.748 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Execution log' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.748 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2024-08-08 04:54:14.752 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Execution log: 20240808-045414' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.752 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log: 20240808-045414'
+[INFO ] 2024-08-08 04:54:14.756 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'HTML - Checkpoints Report' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.756 [main] ReportManager - Successfully created attachment 'HTML - Checkpoints Report'
+[INFO ] 2024-08-08 04:54:14.761 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mIssue Summary: Total Issues = 2, New issues for Failed Tests = 1, Open issues for Passed Tests = 0, Open issues for Failed Tests = 0. Kindly check the attached Issue details. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.761 [main] ReportManager - Issue Summary: Total Issues = 2, New issues for Failed Tests = 1, Open issues for Passed Tests = 0, Open issues for Failed Tests = 0. Kindly check the attached Issue details.
+[INFO ] 2024-08-08 04:54:14.763 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Issues log CSV: 20240808-045414' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.763 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Issues log CSV: 20240808-045414'
+[INFO ] 2024-08-08 04:54:14.767 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Current Method log: engineTearDown' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.767 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: engineTearDown'
+[INFO ] 2024-08-08 04:54:14.773 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:14.773 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:14.773 [main] ReportManager -                                              Starting execution of suite setup configuration method                                             
+[INFO ] 2024-08-08 04:54:14.773 [main] ReportManager -                                           'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+[INFO ] 2024-08-08 04:54:14.773 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:14.774 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.773 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:14.775 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mInitializing Important Links... [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.774 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-08-08 04:54:14.783 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mInitializing Properties... [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.783 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-08-08 04:54:14.813 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:14.813 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:14.813 [main] ReportManager -                                                 Starting execution of setup configuration method                                                
+[INFO ] 2024-08-08 04:54:14.813 [main] ReportManager -                                               'com.ReqRes.API.Automation.E03_Post_createUser.setup'                                              
+[INFO ] 2024-08-08 04:54:14.813 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:14.814 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.811 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of setup configuration method                                                
+                                              'com.ReqRes.API.Automation.E03_Post_createUser.setup'                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:14.826 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:14.830 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:14.830 [main] ReportManager -                                         Starting Execution: '4 out of 6' test cases in the current suite                                        
+[INFO ] 2024-08-08 04:54:14.831 [main] ReportManager -                                Test Method: 'com.ReqRes.API.Automation.E03_Post_createUser.valid_Post_createUser'                               
+[INFO ] 2024-08-08 04:54:14.832 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:14.832 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.824 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 6' test cases in the current suite                                        
+                               Test Method: 'com.ReqRes.API.Automation.E03_Post_createUser.valid_Post_createUser'                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:14.837 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mFile Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/createUser.json"". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.837 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/createUser.json"".
+[INFO ] 2024-08-08 04:54:14.839 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mFile Action "ReadFile" successfully performed. With the following test data "File Path: "D:\Extend_API_AutomationProject\src\test\resources\testDataFiles\createUser.json"". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:14 AM[m 
+[INFO ] 2024-08-08 04:54:14.839 [main] ReportManager - File Action "ReadFile" successfully performed. With the following test data "File Path: "D:\Extend_API_AutomationProject\src\test\resources\testDataFiles\createUser.json"".
+[DEBUG] 2024-08-08 04:54:14.879 [main] cache - Couldn't find template in cache for "http-request.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-08-08 04:54:14.880 [main] cache - TemplateLoader.findTemplateSource("http-request.ftl"): Found
+[DEBUG] 2024-08-08 04:54:14.880 [main] cache - Loading template for "http-request.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/hp/.m2/repository/io/qameta/allure/allure-attachments/2.28.1/allure-attachments-2.28.1.jar!/tpl/http-request.ftl"
+[DEBUG] 2024-08-08 04:54:14.932 [main] BasicClientConnectionManager - Get connection for route {s}->https://reqres.in:443
+[DEBUG] 2024-08-08 04:54:14.933 [main] DefaultClientConnectionOperator - Connecting to reqres.in:443
+[DEBUG] 2024-08-08 04:54:15.037 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2024-08-08 04:54:15.037 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2024-08-08 04:54:15.037 [main] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2024-08-08 04:54:15.037 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2024-08-08 04:54:15.037 [main] DefaultClientConnection - Sending request: POST /api/users HTTP/1.1
+[DEBUG] 2024-08-08 04:54:15.038 [main] wire -  >> "POST /api/users HTTP/1.1[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.038 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.038 [main] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.038 [main] wire -  >> "Content-Length: 156[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.038 [main] wire -  >> "Host: reqres.in[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.038 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.038 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.038 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.038 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.038 [main] headers - >> POST /api/users HTTP/1.1
+[DEBUG] 2024-08-08 04:54:15.038 [main] headers - >> Accept: */*
+[DEBUG] 2024-08-08 04:54:15.038 [main] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2024-08-08 04:54:15.038 [main] headers - >> Content-Length: 156
+[DEBUG] 2024-08-08 04:54:15.038 [main] headers - >> Host: reqres.in
+[DEBUG] 2024-08-08 04:54:15.038 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2024-08-08 04:54:15.038 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/22.0.2)
+[DEBUG] 2024-08-08 04:54:15.038 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2024-08-08 04:54:15.039 [main] wire -  >> "{[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.039 [main] wire -  >> "  "id": 13,[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.039 [main] wire -  >> "  "email": "test123@gmail.com",[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.039 [main] wire -  >> "  "first_name": "Admin",[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.039 [main] wire -  >> "  "last_name": "User",[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.039 [main] wire -  >> "  "avatar": "https://reqres.in/img/faces/13-image.jpg"[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.039 [main] wire -  >> "}"
+[DEBUG] 2024-08-08 04:54:15.170 [main] wire -  << "HTTP/1.1 201 Created[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.170 [main] wire -  << "Date: Thu, 08 Aug 2024 01:54:15 GMT[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.171 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.171 [main] wire -  << "Content-Length: 168[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.171 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.171 [main] wire -  << "Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1723082055&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=loDrGRBK%2BRTN%2Bo7YYnuRqGUAud1wkpaQGcZyPLNknGg%3D"}]}[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.171 [main] wire -  << "Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1723082055&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=loDrGRBK%2BRTN%2Bo7YYnuRqGUAud1wkpaQGcZyPLNknGg%3D[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.171 [main] wire -  << "Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.171 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.171 [main] wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.172 [main] wire -  << "Etag: W/"a8-XDwYdEoocsXUg+EOtyKQR2/cP84"[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.172 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.172 [main] wire -  << "CF-Cache-Status: DYNAMIC[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.172 [main] wire -  << "Server: cloudflare[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.172 [main] wire -  << "CF-RAY: 8afbe09d4d4a0dbd-MRS[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.172 [main] wire -  << "[\r][\n]"
+[DEBUG] 2024-08-08 04:54:15.173 [main] DefaultClientConnection - Receiving response: HTTP/1.1 201 Created
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << HTTP/1.1 201 Created
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << Date: Thu, 08 Aug 2024 01:54:15 GMT
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << Content-Length: 168
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << Connection: keep-alive
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1723082055&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=loDrGRBK%2BRTN%2Bo7YYnuRqGUAud1wkpaQGcZyPLNknGg%3D"}]}
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1723082055&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=loDrGRBK%2BRTN%2Bo7YYnuRqGUAud1wkpaQGcZyPLNknGg%3D
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << X-Powered-By: Express
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << Access-Control-Allow-Origin: *
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << Etag: W/"a8-XDwYdEoocsXUg+EOtyKQR2/cP84"
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << CF-Cache-Status: DYNAMIC
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << Server: cloudflare
+[DEBUG] 2024-08-08 04:54:15.173 [main] headers - << CF-RAY: 8afbe09d4d4a0dbd-MRS
+[DEBUG] 2024-08-08 04:54:15.174 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2024-08-08 04:54:15.174 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[DEBUG] 2024-08-08 04:54:15.178 [main] wire -  << "{"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-08T01:54:15.312Z"}"
+[DEBUG] 2024-08-08 04:54:15.178 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@3796ca50
+[DEBUG] 2024-08-08 04:54:15.178 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[DEBUG] 2024-08-08 04:54:15.179 [main] cache - Couldn't find template in cache for "http-response.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2024-08-08 04:54:15.179 [main] cache - TemplateLoader.findTemplateSource("http-response.ftl"): Found
+[DEBUG] 2024-08-08 04:54:15.179 [main] cache - Loading template for "http-response.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/hp/.m2/repository/io/qameta/allure/allure-attachments/2.28.1/allure-attachments-2.28.1.jar!/tpl/http-response.ftl"
+[INFO ] 2024-08-08 04:54:15.190 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mResponse status code: "201", status line: "HTTP/1.1 201 Created" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.190 [main] ReportManager - Response status code: "201", status line: "HTTP/1.1 201 Created"
+[INFO ] 2024-08-08 04:54:15.191 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mActual response status code "201" matches the expected one "201". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.191 [main] ReportManager - Actual response status code "201" matches the expected one "201".
+[INFO ] 2024-08-08 04:54:15.232 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mHandle response; POST | Target Status Code: 201 | Response Time: 267ms. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.232 [main] ReportManager - Handle response; POST | Target Status Code: 201 | Response Time: 267ms.
+[INFO ] 2024-08-08 04:54:15.234 [main] ReportManager - {"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-08T01:54:15.312Z"}[38;2;0;96;168;1m[INFO][m [m{"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-08T01:54:15.312Z"} [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.234 [main] ReportManager - {"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-08T01:54:15.312Z"}
+[INFO ] 2024-08-08 04:54:15.236 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response Time is less than or equal to "2000". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.236 [main] ReportManager - Assert that the API response Time is less than or equal to "2000".
+[INFO ] 2024-08-08 04:54:15.239 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response time; 267. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.238 [main] ReportManager - Get response time; 267.
+[DEBUG] 2024-08-08 04:54:15.239 [main] ReportManager - Expected "2000", and actual "267"
+[INFO ] 2024-08-08 04:54:15.240 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "2000", and actual "267" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.240 [main] ReportManager - Expected "2000", and actual "267"
+[INFO ] 2024-08-08 04:54:15.241 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.241 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:15.243 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response Body contains "createdAt". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.243 [main] ReportManager - Assert that the API response Body contains "createdAt".
+[DEBUG] 2024-08-08 04:54:15.245 [main] ReportManager - Expected "createdAt", and actual "{"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-08T01:54:15.312Z"}"
+[INFO ] 2024-08-08 04:54:15.245 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "createdAt", and actual "{"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-08T01:54:15.312Z"}" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.245 [main] ReportManager - Expected "createdAt", and actual "{"id":13,"email":"test123@gmail.com","first_name":"Admin","last_name":"User","avatar":"https://reqres.in/img/faces/13-image.jpg","createdAt":"2024-08-08T01:54:15.312Z"}"
+[INFO ] 2024-08-08 04:54:15.246 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.246 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:15.247 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mThe user is created successfully [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.247 [main] ReportManager - The user is created successfully
+[INFO ] 2024-08-08 04:54:15.292 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response extracted value from the JSON path "id" is equal to "13". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.291 [main] ReportManager - Assert that the API response extracted value from the JSON path "id" is equal to "13".
+[DEBUG] 2024-08-08 04:54:15.293 [main] CompiledPath - Evaluating path: $['id']
+[INFO ] 2024-08-08 04:54:15.295 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response jsonvalue; id. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.295 [main] ReportManager - Get response jsonvalue; id.
+[DEBUG] 2024-08-08 04:54:15.295 [main] ReportManager - Expected "13", and actual "13"
+[INFO ] 2024-08-08 04:54:15.295 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "13", and actual "13" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.295 [main] ReportManager - Expected "13", and actual "13"
+[INFO ] 2024-08-08 04:54:15.295 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.295 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:15.296 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mUser ID in response matches the requested ID. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.296 [main] ReportManager - User ID in response matches the requested ID.
+[INFO ] 2024-08-08 04:54:15.327 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response extracted value from the JSON path "email" is equal to "test123@gmail.com". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.327 [main] ReportManager - Assert that the API response extracted value from the JSON path "email" is equal to "test123@gmail.com".
+[DEBUG] 2024-08-08 04:54:15.329 [main] CompiledPath - Evaluating path: $['email']
+[INFO ] 2024-08-08 04:54:15.330 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response jsonvalue; email. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.329 [main] ReportManager - Get response jsonvalue; email.
+[DEBUG] 2024-08-08 04:54:15.330 [main] ReportManager - Expected "test123@gmail.com", and actual "test123@gmail.com"
+[INFO ] 2024-08-08 04:54:15.330 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "test123@gmail.com", and actual "test123@gmail.com" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.330 [main] ReportManager - Expected "test123@gmail.com", and actual "test123@gmail.com"
+[INFO ] 2024-08-08 04:54:15.331 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.331 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:15.332 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mCheck that user profile info has been completed Successfully [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.332 [main] ReportManager - Check that user profile info has been completed Successfully
+[INFO ] 2024-08-08 04:54:15.357 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response extracted value from the JSON path "first_name" is equal to "Admin". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.356 [main] ReportManager - Assert that the API response extracted value from the JSON path "first_name" is equal to "Admin".
+[DEBUG] 2024-08-08 04:54:15.358 [main] CompiledPath - Evaluating path: $['first_name']
+[INFO ] 2024-08-08 04:54:15.359 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response jsonvalue; first_name. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.358 [main] ReportManager - Get response jsonvalue; first_name.
+[DEBUG] 2024-08-08 04:54:15.359 [main] ReportManager - Expected "Admin", and actual "Admin"
+[INFO ] 2024-08-08 04:54:15.359 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "Admin", and actual "Admin" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.359 [main] ReportManager - Expected "Admin", and actual "Admin"
+[INFO ] 2024-08-08 04:54:15.360 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.360 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:15.383 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the API response extracted value from the JSON path "last_name" is equal to "User". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.383 [main] ReportManager - Assert that the API response extracted value from the JSON path "last_name" is equal to "User".
+[DEBUG] 2024-08-08 04:54:15.384 [main] CompiledPath - Evaluating path: $['last_name']
+[INFO ] 2024-08-08 04:54:15.385 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet response jsonvalue; last_name. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.385 [main] ReportManager - Get response jsonvalue; last_name.
+[DEBUG] 2024-08-08 04:54:15.386 [main] ReportManager - Expected "User", and actual "User"
+[INFO ] 2024-08-08 04:54:15.386 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "User", and actual "User" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.386 [main] ReportManager - Expected "User", and actual "User"
+[INFO ] 2024-08-08 04:54:15.386 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.386 [main] ReportManager - Assertion passed
+[INFO ] 2024-08-08 04:54:15.389 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Current Method log: valid_Post_createUser' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.389 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: valid_Post_createUser'
+[INFO ] 2024-08-08 04:54:15.389 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:15.389 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:15.389 [main] ReportManager -                     Finished Execution of Test Method: 'com.ReqRes.API.Automation.E03_Post_createUser.valid_Post_createUser'                    
+[INFO ] 2024-08-08 04:54:15.389 [main] ReportManager -                                                               Test Status: 'Passed'                                                              
+[INFO ] 2024-08-08 04:54:15.389 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:15.389 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.389 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                    Finished Execution of Test Method: 'com.ReqRes.API.Automation.E03_Post_createUser.valid_Post_createUser'                    
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:15.396 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2024-08-08 04:54:15.396 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:15.396 [main] ReportManager -                                            Starting execution of engine tear down configuration method                                           
+[INFO ] 2024-08-08 04:54:15.396 [main] ReportManager -                                         'com.shaft.listeners.internal.ConfigurationHelper.engineTearDown'                                        
+[INFO ] 2024-08-08 04:54:15.396 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2024-08-08 04:54:15.396 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.395 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine tear down configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTearDown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-08 04:54:15.397 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Execution log' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 04:54:15 AM[m 
+[INFO ] 2024-08-08 04:54:15.397 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'

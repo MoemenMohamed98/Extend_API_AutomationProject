@@ -1,0 +1,47 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="TestSuite">
+
+    <test name="Fetch_UserList">
+        <classes>
+            <class name="com.ReqRes.API.Automation.E01_Get_fetchUserList" />
+        </classes>
+    </test>
+
+
+    <test name="Fetch_UserID">
+        <classes>
+            <class name="com.ReqRes.API.Automation.E02_Get_fetchUserID" />
+        </classes>
+    </test>
+
+
+    <test name="Create_User">
+        <classes>
+            <class name="com.ReqRes.API.Automation.E03_Post_createUser" />
+        </classes>
+    </test>
+
+    <test name="Update_User">
+        <classes>
+            <class name="com.ReqRes.API.Automation.E04_Put_updateUser" />
+        </classes>
+    </test>
+
+    <test name="Delete_User">
+        <classes>
+            <class name="com.ReqRes.API.Automation.E05_Delete_deleteUser" />
+        </classes>
+    </test>
+
+
+</suite>
+
+
+
+
+
+
+
+

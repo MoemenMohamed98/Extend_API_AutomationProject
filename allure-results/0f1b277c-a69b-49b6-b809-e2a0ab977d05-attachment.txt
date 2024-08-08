@@ -1,0 +1,15 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 6' test cases in the current suite                                        
+                               Test Method: 'com.ReqRes.API.Automation.E01_Get_fetchUserList.valid_getTheUserList'                               
+                                      Test Description: 'Validate for fetching the use list by GET method'                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @08-08-2024 04:54:09.0335 AM
+[ReportManager] Actual response status code "200" matches the expected one "200". @08-08-2024 04:54:09.0343 AM
+[ReportManager] Handle response; GET | Target Status Code: 200 | Response Time: 2244ms. @08-08-2024 04:54:11.0094 AM
+[ReportManager] Assert that the API response Time is less than or equal to "2000". @08-08-2024 04:54:11.0174 AM
+[ReportManager] Get response time; 2244. @08-08-2024 04:54:11.0225 AM
+[ReportManager] Expected "2000", and actual "2244" @08-08-2024 04:54:11.0228 AM
+[ReportManager] Expected "2000", and actual "2244" @08-08-2024 04:54:11.0231 AM
+[ReportManager] Assertion failed; expected 2000, but found 2244 @08-08-2024 04:54:11.0235 AM

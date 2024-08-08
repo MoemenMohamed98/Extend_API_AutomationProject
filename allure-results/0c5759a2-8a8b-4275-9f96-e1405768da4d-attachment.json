@@ -1,0 +1,13 @@
+{
+  "data": {
+    "last_name": "Bluth",
+    "id": 1,
+    "avatar": "https://reqres.in/img/faces/1-image.jpg",
+    "first_name": "George",
+    "email": "george.bluth@reqres.in"
+  },
+  "support": {
+    "text": "To keep ReqRes free, contributions towards server costs are appreciated!",
+    "url": "https://reqres.in/#support-heading"
+  }
+}
